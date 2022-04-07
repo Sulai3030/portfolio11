@@ -7,8 +7,7 @@
             <div class="inner">
               <span>Ready To Do This</span>
               <h2>
-                Let's get <br />
-                to work
+                Let's collaborate
               </h2>
               <router-link class="rn-button-style--2" to="/contact"
                 ><span>Contact Us</span></router-link
@@ -85,15 +84,15 @@
           },
           {
             icon: "fa-linkedin-in",
-            url: "https://www.linkedin.com/",
+            url: "https://www.linkedin.com/in/sulai3030/",
           },
           {
             icon: "fa-twitter",
-            url: "https://twitter.com/",
+            url: "https://twitter.com/Sulai2020",
           },
           {
             icon: "fa-instagram",
-            url: "https://www.instagram.com/",
+            url: "https://www.instagram.com/sulai3030/",
           },
         ],
         navList: [

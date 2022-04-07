@@ -296,7 +296,7 @@ export default {
       { title: "Personal Portfolio", to: "/personal-portfolio" },
       { title: "Personal Portfolio 02", to: "landing-personal-portfolio-02" },
       {
-        title: "Personal Portfolio Landing",
+        title: "Sulai Sivadel: Web Developer",
         to: "/landing-personal-portfolio",
       },
       { title: "Designer Portfolio", to: "/designer-portfolio" },

@@ -9,9 +9,9 @@
         class="slide personal-portfolio-slider slider-style-3 slider-paralax bg_image bg_image--25 d-flex align-center"
       >
         <BannerThree>
-          <span slot="designation">FREELANCE DIGITAL DESIGNER</span>
+          <span slot="designation">FREELANCE Web Developer and Designer</span>
           <h1 class="heading-title" slot="heading-title">
-            Hello, I’m <span>Smith</span> Welcome to my World.
+            Hello, I’m <span>Sulai</span> Welcome to my World.
           </h1>
         </BannerThree>
       </div>
@@ -46,10 +46,11 @@
             <div
               class="section-title service-style--3 text-center mb--20 mb_sm--0 md_md--0"
             >
-              <h2 class="heading-title">My Awesome Service</h2>
+              <h2 class="heading-title">My Awesome Services</h2>
               <p>
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered alteration.
+                Hello! I am Sulai Sivadel. I'm a Frontend Developer who is passionate about building great user experiences. I am ambitious and user-focused with experience working in teams and independently. I have strong project management experience and experience delegating responsibilities to a team.
+                A flexible and quick learner committed to constantly learning and evolving skills to stay abreast of ever-evolving technologies and trends in the industry. Communicative, knowledgeable and steadfast with excellent computer engineering skills. HTML5, CSS,JavaScript, VueJS, and ReactJS.
+                When I'm not coding, you'll find me baking delicous desserts.
               </p>
             </div>
           </v-col>
