@@ -10,11 +10,8 @@
         <div class="section-title">
           <h2 class="heading-title">About Me</h2>
           <p class="description">
-            There are many variations of passages of Lorem Ipsum available, but
-            the majority have suffered
-            <a href="#">alteration</a> in some form, by injected humour, or
-            randomised words which dont look even slightly believable. If you
-            are going to use a passage of Lorem Ipsum,
+            Hello! I am Sulai Sivadel. I'm a Frontend Developer who is passionate about building great user experiences. I am ambitious and user-focused with experience working not only in teams but independently. I have strong project management experience and experience delegating responsibilities to a team.
+            I am a flexible and quick learner committed to constantly learning and evolving my skills to stay abreast of ever-evolving technologies and trends in the industry. Communicative, knowledgeable and steadfast with excellent computer engineering skills. HTML5, CSS,JavaScript, VueJS, and ReactJS. When I'm not coding, you'll find me baking delicous desserts.
           </p>
         </div>
         <!-- End .section-title -->

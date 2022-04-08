@@ -11,7 +11,7 @@
         <BannerThree>
           <span slot="designation">FREELANCE Web Developer and Designer</span>
           <h1 class="heading-title" slot="heading-title">
-            Hello, I’m <span>Sulai</span> Welcome to my World.
+            Hello, I’m <span>Sulai</span> Welcome to my Portfolio.
           </h1>
         </BannerThree>
       </div>
@@ -26,8 +26,8 @@
             <img
               slot="thum-img"
               class="w-100"
-              src="../../assets/images/about/about-8.jpg"
-              alt="About Images"
+              src="../../assets/images/bg/sunset2.gif"
+              alt="Winter Sunset"
             />
           </AboutFour>
         </div>
@@ -48,10 +48,7 @@
             >
               <h2 class="heading-title">My Awesome Services</h2>
               <p>
-                Hello! I am Sulai Sivadel. I'm a Frontend Developer who is passionate about building great user experiences. I am ambitious and user-focused with experience working in teams and independently. I have strong project management experience and experience delegating responsibilities to a team.
-                A flexible and quick learner committed to constantly learning and evolving skills to stay abreast of ever-evolving technologies and trends in the industry. Communicative, knowledgeable and steadfast with excellent computer engineering skills. HTML5, CSS,JavaScript, VueJS, and ReactJS.
-                When I'm not coding, you'll find me baking delicous desserts.
-              </p>
+                Hello! I am Sulai Sivadel. I'm a Frontend Developer who is passionate about building great user experiences. 
             </div>
           </v-col>
         </v-row>
@@ -71,8 +68,12 @@
             <div class="section-title section-title--2 text-center mb--20">
               <h2 class="heading-title">My Latest Project</h2>
               <p>
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered alteration.
+                I am ambitious and user-focused with experience working in teams and independently. 
+              <p>I have strong project management experience and experience 
+                delegating responsibilities to a team.</p>
+              <p>A flexible and quick learner committed to constantly learning and evolving skills to stay abreast of ever-evolving technologies and trends in the industry. Communicative,         
+                  knowledgeable and steadfast with excellent computer engineering skills. HTML5, CSS,JavaScript, VueJS, and ReactJS.
+                  When I'm not coding, you'll find me baking delicous desserts.
               </p>
             </div>
           </v-col>
