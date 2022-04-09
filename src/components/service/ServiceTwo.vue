@@ -36,28 +36,25 @@
       return {
         serviceContent: [
           {
-            icon: "cast",
-            title: "Business Stratagy",
-            desc: ` I throw myself down among the tall grass by the stream as I lie
-                close to the earth.`,
-          },
-          {
             icon: "layers",
             title: "Website Development",
-            desc: ` I throw myself down among the tall grass by the stream as I lie
-                close to the earth.`,
+            desc: ` I like to design user friendly Frontends ensuring they are ADA Complient`,
           },
           {
-            icon: "users",
-            title: "Marketing & Reporting",
-            desc: `I throw myself down among the tall grass by the stream as I lie
+            icon: "cast",
+            title: "Web Editing",
+            desc: ` I throw myself down among the tall grass by the stream as I lie
                 close to the earth.`,
           },
           {
             icon: "monitor",
-            title: "Mobile Development",
-            desc: `I throw myself down among the tall grass by the stream as I lie
-                close to the earth.`,
+            title: "Writing for the Web",
+            desc: `I write evergreen copy that is engaging and search-engine optimized.`,
+          },
+          {
+            icon: "monitor",
+            title: "Technical Writing",
+            desc: `I have experience writing techincal manuals and how-to's for large coporate entities such as the city of New York.`,
           },
         ],
       };

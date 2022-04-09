@@ -53,7 +53,7 @@
           },
           {
             id: 4,
-            name: "Education & Certification",
+            name: "Technical Skills",
           },
         ],
 
@@ -67,7 +67,7 @@
                 desc: "Use JavaScript, CSS, and HTML to create inviting website designs",
               },
               {
-                title: "Web and user interface design nand creation",
+                title: "Web and user interface design and creation",
                 name: "Development",
                 desc: "Websites, Web experiences, ...",
               },

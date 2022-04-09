@@ -187,21 +187,22 @@
         ],
         socialList: [
           {
-            url: "https://www.facebook.com/",
-            icon: "facebook",
-          },
-          {
-            url: "https://www.linkedin.com/",
+            url: "https://www.linkedin.com/in/sulai3030/",
             icon: "linkedin",
           },
           {
-            url: "https://instagram.com/",
+            url: "https://www.instagram.com/sulai3030/",
             icon: "instagram",
           },
           {
-            url: "https://twitter.com/",
+            url: "https://twitter.com/Sulai2020/",
             icon: "twitter",
           },
+          {
+            url: "https://stackoverflow.com/users/9226831/sulai3030",
+            icon: "stackoverflow",
+          },
+
         ],
         moreProjects: [
           {
