@@ -16,7 +16,23 @@
           <v-col cols="12">
             <div class="rn-page-title text-center pt--100">
               <h2 class="headingtitle theme-gradient">WEBSITE DEVELOPMENT</h2>
-              <p>Fresh From The Press Discription</p>
+              <p>I develop user oriented websites. Ambitious, user-focused Web and Software Developer with experience working in teams and independently. I have strong project management experience and experience delegating responsibilities to a team from time at Maximus where I spearheaded a project to create the audio/ADA compliant portion of a new healthcare plan for 1.5 million citizens of New York State.</p>
+              <p>Prior to becoming an engineer, I was a professional writer with credits ranging from:
+                 <ul>
+                    <li>
+                      Healthcare
+                    </li>
+                    <li>
+                      Healthcare Policy writing
+                    </li>
+                    <li>
+                      Technical Writing
+                    </li>
+                    <li>
+                      Technical Writing
+                    </li>
+                </ul> 
+              </p>
             </div>
           </v-col>
         </v-row>

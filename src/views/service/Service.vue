@@ -221,19 +221,19 @@
         serviceContent2: [
           {
             icon: "cast",
-            title: "Business Stratagy",
+            title: "Web Development",
             desc: ` I throw myself down among the tall grass by the stream as I lie
                 close to the earth.`,
           },
           {
             icon: "cast",
-            title: "Website Development",
+            title: "Website Design",
             desc: ` I throw myself down among the tall grass by the stream as I lie
                 close to the earth.`,
           },
           {
             icon: "cast",
-            title: "Marketing & Reporting",
+            title: "Professional Writing",
             desc: `I throw myself down among the tall grass by the stream as I lie
                 close to the earth.`,
           },
@@ -241,13 +241,13 @@
         serviceContent: [
           {
             icon: "cast",
-            title: "Business Stratagy",
+            title: "Content Writing",
             desc: ` I throw myself down among the tall grass by the stream as I lie
                 close to the earth.`,
           },
           {
             icon: "layers",
-            title: "Website Development",
+            title: "Technical Writing",
             desc: ` I throw myself down among the tall grass by the stream as I lie
                 close to the earth.`,
           },

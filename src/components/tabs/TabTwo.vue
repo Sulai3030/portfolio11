@@ -41,19 +41,18 @@
         items: [
           {
             id: 1,
-            name: "Main skills",
+            name: "Main Skills",
           },
           {
             id: 2,
             name: "Work Experience",
           },
           {
-            id: 3,
-            name: "Experience",
-          },
-          {
             id: 4,
             name: "Technical Skills",
+          },{
+            id: 3,
+            name: "Education",
           },
         ],
 
@@ -108,6 +107,66 @@
               },
             ],
           },
+           {
+            id: 4,
+            content: [
+              {
+                title: "Languages:",
+                name: "JavaScript, Python, CSS, HTML5",
+                desc: "",
+              },
+              {
+                title: "Libraries",
+                name: "VueJs, React.js, React Native, Express, Node JS, jQuery, AJAX, Bootstrap",
+                desc: "",
+              },
+              {
+                title: "Databases:",
+                name: "MongoDB, MySQL, NoSQL, Firebase",
+                desc: "",
+              },
+              {
+                title: "Templates:",
+                name: "Handlebars",
+                desc: "",
+              },
+              {
+                title: "Version Control",
+                name: "Jest/Enzyme",
+                desc: "",
+              },
+              {
+                title: "Testing:",
+                name: "Git/GitHub",
+                desc: "2016",
+              },
+               {
+                title: "Platforms:",
+                name: "Drupal, WordPress",
+                desc: "",
+              },
+               {
+                title: "Collaboration Software:",
+                name: "Slack, Salesforce",
+                desc: "",
+              },
+              {
+                title: "Creative Cloud:",
+                name: "Photoshop, Illustrator, Lightroom",
+                desc: "",
+              },
+              {
+                title: "Image Editors",
+                name: "GIMP, Photoshop",
+                desc: "",
+              },
+              {
+                title: "Amazon Web Services (AWS)",
+                name: "",
+                desc: "",
+              },
+            ],
+          },
           {
             id: 4,
             content: [
@@ -131,6 +190,7 @@
                 name: "Emory University, Atlanta,GA",
                 desc: "2001",
               },
+              
             ],
           },
         ],

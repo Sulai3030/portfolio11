@@ -11,7 +11,7 @@
         <BannerThree>
           <span slot="designation">FREELANCE Web Developer and Designer</span>
           <h1 class="heading-title" slot="heading-title">
-            Hello, I’m <span>Sulai</span> Welcome to my Portfolio.
+            Hello, I’m <span>Sulai Sivadel.</span> Welcome to my Portfolio.
           </h1>
         </BannerThree>
       </div>
@@ -46,7 +46,7 @@
             <div
               class="section-title service-style--3 text-center mb--20 mb_sm--0 md_md--0"
             >
-              <h2 class="heading-title">My Awesome Services</h2>
+              <h2 class="heading-title">My Services</h2>
               <p>
                 Hello! I am Sulai Sivadel. I'm a Frontend Developer who is passionate about building great user experiences. 
             </div>

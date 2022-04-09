@@ -210,11 +210,6 @@
             title: "Digital Analysis",
             categorie: "Technique",
           },
-          {
-            src: require("../../assets/images/portfolio/related-image-02.jpg"),
-            title: "Plan Management",
-            categorie: "Planning",
-          },
         ],
         index: null,
       };

@@ -52,20 +52,16 @@
         logo: require("../../assets/images/logo/logo.png"),
         socialList: [
           {
-            icon: "fa-facebook-f",
-            url: "https://www.facebook.com/",
-          },
-          {
             icon: "fa-linkedin-in",
-            url: "https://www.linkedin.com/",
+            url: "https://www.linkedin.com/in/sulai3030/",
           },
           {
             icon: "fa-twitter",
-            url: "https://twitter.com/",
+            url: "https://twitter.com/Sulai2020",
           },
           {
             icon: "fa-instagram-square",
-            url: "https://www.instagram.com/",
+            url: "https://www.instagram.com/sulai3030/",
           },
         ],
       };
