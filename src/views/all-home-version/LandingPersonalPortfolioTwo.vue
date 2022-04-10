@@ -48,7 +48,7 @@
             >
               <h2 class="heading-title">My Services</h2>
               <p>
-                Hello! I am Sulai Sivadel. I'm a Frontend Developer who is passionate about building great user experiences. 
+                Hello! I am Sulai Sivadel. I'm a Frontend Developer who is passionate about building great user experiences. There is mnoting better than a well contrsuctied and navigable website, my aim is to deliver that for you and your customers.
             </div>
           </v-col>
         </v-row>
@@ -67,13 +67,12 @@
           <v-col lg="12">
             <div class="section-title section-title--2 text-center mb--20">
               <h2 class="heading-title">My Latest Project</h2>
-              <p>
+              <p class="text-left">
                 I am ambitious and user-focused with experience working in teams and independently. 
-              <p>I have strong project management experience and experience 
+              <p class="text-left">I have strong project management experience and experience 
                 delegating responsibilities to a team.</p>
-              <p>A flexible and quick learner committed to constantly learning and evolving skills to stay abreast of ever-evolving technologies and trends in the industry. Communicative,         
-                  knowledgeable and steadfast with excellent computer engineering skills. HTML5, CSS,JavaScript, VueJS, and ReactJS.
-                  When I'm not coding, you'll find me baking delicous desserts.
+              <p class="text-left">A flexible and quick learner committed to constantly learning and evolving skills to stay abreast of ever-evolving technologies and trends in the industry. Communicative, knowledgeable and steadfast with excellent computer engineering skills. HTML5, CSS,JavaScript, VueJS, and ReactJS.
+              When I'm not coding, you'll find me baking delicous desserts.
               </p>
             </div>
           </v-col>

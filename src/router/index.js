@@ -2,7 +2,7 @@ import Vue from "vue";
 import VueRouter from "vue-router";
 import goTo from "vuetify/es5/services/goto";
 import Missing from "../views/404.vue";
-import Demo from "../views/Demo.vue";
+import Demo from "../views/all-home-version/LandingPersonalPortfolioTwo.vue";
 
 Vue.use(VueRouter);
 

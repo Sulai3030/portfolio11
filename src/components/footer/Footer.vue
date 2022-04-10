@@ -59,7 +59,7 @@
               <v-col lg="12">
                 <div class="copyright-text">
                   <p>
-                    Copyright © {{ new Date().getFullYear() }} Rainbow-Themes.
+                    Copyright © {{ new Date().getFullYear() }} Sulai Sivadel.
                     All Rights Reserved.
                   </p>
                 </div>

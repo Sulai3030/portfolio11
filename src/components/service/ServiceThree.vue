@@ -37,40 +37,29 @@
       return {
         serviceContent: [
           {
-            icon: "cast",
-            title: "Business Stratagy",
-            desc: ` I throw myself down among the tall grass by the stream as I lie
-                close to the earth.`,
+            icon: "layers",
+            title: "Website Development",
+            desc: `I build appications with one simple goal in mind, to help users find what they need quickly and to ensure the site owner is satisfied.`,
+          },
+          {
+            icon: "monitor",
+            title: "Health and Wellness Writing",
+            desc: `Conveying health info in a user friendly and inviting manner can be difficult, but I take great pride in ameliorating that pain point.`,
+          },
+          {
+            icon: "monitor",
+            title: "Health Policy Writing/Reporting",
+            desc: `Conveying information to the public can be complicated but I take great care in simplifiying that process and helping the average citizen to understand what is happening around them.`,
           },
           {
             icon: "layers",
-            title: "Website Development",
-            desc: ` I throw myself down among the tall grass by the stream as I lie
-                close to the earth.`,
-          },
-          {
-            icon: "users",
-            title: "Marketing & Reporting",
-            desc: `I throw myself down among the tall grass by the stream as I lie
-                close to the earth.`,
+            title: "Technical Writing",
+            desc: `As a technical Writer for the New York City Department of Buildings I collaborated with my team in translating all of the information that owners of buildings in NYC needed to a digital platform.`,
           },
           {
             icon: "monitor",
-            title: "Mobile Development",
-            desc: `I throw myself down among the tall grass by the stream as I lie
-                close to the earth.`,
-          },
-          {
-            icon: "users",
-            title: "Marketing & Reporting",
-            desc: `I throw myself down among the tall grass by the stream as I lie
-                close to the earth.`,
-          },
-          {
-            icon: "monitor",
-            title: "Mobile Development",
-            desc: ` I throw myself down among the tall grass by the stream as I lie
-                close to the earth.`,
+            title: "Film Criticism & Reporting",
+            desc: `Writing for numerous outposts and delivering breaking news about Hollywood releases.`,
           },
         ],
       };

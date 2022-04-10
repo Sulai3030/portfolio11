@@ -34,14 +34,13 @@
       return {
         serviceContent: [
           {
-            src: require("../../assets/images/icons/icon-01.png"),
-            title: "Business Stratagy",
-            desc: `There are many variations of passages of Lorem Ipsum available, but
-            the majority have suffered.`,
-          },
-          {
             src: require("../../assets/images/icons/icon-02.png"),
             title: " Website Development",
+            desc: `There are many variations of passages of Lorem Ipsum available, but
+            the majority have suffered.`,
+          },{
+            src: require("../../assets/images/icons/icon-01.png"),
+            title: "Business Stratagy",
             desc: `There are many variations of passages of Lorem Ipsum available, but
             the majority have suffered.`,
           },
