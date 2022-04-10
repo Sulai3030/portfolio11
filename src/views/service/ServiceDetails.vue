@@ -16,23 +16,7 @@
           <v-col cols="12">
             <div class="rn-page-title text-center pt--100">
               <h2 class="headingtitle theme-gradient">WEBSITE DEVELOPMENT</h2>
-              <p>I develop user oriented websites. Ambitious, user-focused Web and Software Developer with experience working in teams and independently. I have strong project management experience and experience delegating responsibilities to a team from time at Maximus where I spearheaded a project to create the audio/ADA compliant portion of a new healthcare plan for 1.5 million citizens of New York State.</p>
-              <p>Prior to becoming an engineer, I was a professional writer with credits ranging from:
-                 <ul>
-                    <li>
-                      Healthcare
-                    </li>
-                    <li>
-                      Healthcare Policy writing
-                    </li>
-                    <li>
-                      Technical Writing
-                    </li>
-                    <li>
-                      Technical Writing
-                    </li>
-                </ul> 
-              </p>
+              <p class="text-left">I develop and maintain user oriented websites. </p>
             </div>
           </v-col>
         </v-row>
@@ -54,7 +38,7 @@
                     <div class="thumb">
                       <img
                         class="w-100"
-                        src="../../assets/images/service/service-01.png"
+                        src="https://i.imgur.com/3Jgb7lr.jpg"
                         alt="Service Images"
                       />
                     </div>
@@ -62,11 +46,7 @@
                   <v-col lg="6" md="6" cols="12">
                     <div class="details mt_md--30 mt_sm--30">
                       <p>
-                        but the majority have suffered alteration in some form,
-                        by injected humour, or randomised words which don't look
-                        even slightly believable. If you are going to use a
-                        passage of Lorem Ipsum. You need to be sure there isn't
-                        anything embarrassing
+                        From conception to launch, from wireframe to testing  I will be available.
                       </p>
                       <p>
                         hidden in the middle of text. All the Lorem Ipsum

@@ -47,7 +47,7 @@
               class="section-title service-style--3 text-center mb--20 mb_sm--0 md_md--0"
             >
               <h2 class="heading-title">My Services</h2>
-              <p>
+              <p class="text-left">
                 Hello! I am Sulai Sivadel. I'm a Frontend Developer who is passionate about building great user experiences. There is mnoting better than a well contrsuctied and navigable website, my aim is to deliver that for you and your customers.
             </div>
           </v-col>
