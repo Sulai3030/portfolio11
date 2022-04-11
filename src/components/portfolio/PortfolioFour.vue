@@ -40,17 +40,17 @@
       return {
         portfolioContent: [
           {
-            src: require("../../assets/images/portfolio/portfolio-8.jpg"),
+            src: require("../../assets/images/portfolio/pexels-ylanite-koppens-3123915.jpg"),
             meta: "Development",
-            title: "test",
+            title: "",
           },
           {
-            src: require("../../assets/images/portfolio/portfolio-7.jpg"),
+            src: require("../../assets/images/portfolio/https://i.imgur.com/6GR6DC5.jpg"),
             meta: "Development",
             title: "Getting tickets to the big show",
           },
           {
-            src: require("../../assets/images/portfolio/portfolio-3.jpg"),
+            src: require("../../assets/images/portfolio/grounds-landscape_port.jpg"),
             meta: "Development",
             title: "Getting tickets to the big show",
           },
