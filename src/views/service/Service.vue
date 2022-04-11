@@ -36,11 +36,10 @@
         <v-row>
           <v-col cols="12">
             <div class="section-title text-center mb--30">
-              <h2>Digital Marketing</h2>
+              <h2>Website Development and Maintainance</h2>
               <p>
-                There are many variations of passages of Lorem Ipsum available,
+                I develop, deploy, and maintain my customers websites.
                 <br />
-                but the majority have suffered alteration.
               </p>
             </div>
           </v-col>
@@ -213,7 +212,7 @@
             disabled: false,
           },
           {
-            text: "Service",
+            text: "Services",
             to: "",
             disabled: true,
           },

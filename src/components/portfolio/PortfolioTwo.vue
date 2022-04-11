@@ -51,9 +51,9 @@
       return {
         portfolioContent: [
           {
-            src: require("../../assets/images/portfolio/portfolio-2.jpg"),
+            src: require("../../assets/images/portfolio/pexels-ylanite-koppens-3123915.jpg"),
             meta: "Development",
-            title: "Getting tickets to the big show",
+            title: "Party Dash",
           },
           {
             src: require("../../assets/images/portfolio/portfolio-5.jpg"),

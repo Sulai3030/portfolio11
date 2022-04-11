@@ -42,7 +42,7 @@
           {
             src: require("../../assets/images/portfolio/portfolio-8.jpg"),
             meta: "Development",
-            title: "Getting tickets to the big show",
+            title: "test",
           },
           {
             src: require("../../assets/images/portfolio/portfolio-7.jpg"),

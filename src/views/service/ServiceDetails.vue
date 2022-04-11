@@ -8,7 +8,7 @@
 
     <!-- Start Breadcrump Area  -->
     <div
-      class="rn-page-title-area pt--120 pb--190 bg_image bg_image--5"
+      class="rn-page-title-area pt--120 pb--190"
       data-black-overlay="5"
     >
       <v-container>
@@ -46,26 +46,18 @@
                   <v-col lg="6" md="6" cols="12">
                     <div class="details mt_md--30 mt_sm--30">
                       <p>
-                        From conception to launch, from wireframe to testing  I will be available.
+                        From conception to launch, from wireframe to testing I will dutifully complete and maintain your website.
                       </p>
                       <p>
-                        hidden in the middle of text. All the Lorem Ipsum
-                        generators tend toitrrepeat predefined chunks.
-                        Necessary, making this the first true generator on the
-                        Internet.
+                        Below are links to, and screenshots of satified custormers' websites.
                       </p>
-                      <h4 class="title">Proceess of metel</h4>
+                      <h4 class="title"></h4>
                       <ul class="liststyle bullet">
-                        <li>Yet this above sewed flirted opened ouch</li>
-                        <li>Goldfinch realistic sporadic ingenuous</li>
-                        <li>
-                          Abominable this abidin far successfully then like
-                          piquan
-                        </li>
-                        <li>Risus commodo viverra</li>
-                        <li>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                        </li>
+                        <li><a href="https://partydash.com/">PARTYDASH.COM</a></li>
+                        <li><a href="https://www.mayapplecenter.org/">Mayapple Center for the Arts</a></li>
+                        <li><a href="https://www.johndavidwest.com/">John David West: Social Media + Photography</a></li>
+                        <li><a href="https://nymedicaidchoice.com/">New York Medicaid Choice by Maxim</a></li>
+                        <li><a href="https://www.princetonreview.com/law-school-advice/strategies-to-succeed">The Princeton Review</a></li>
                       </ul>
                     </div>
                   </v-col>
@@ -77,54 +69,27 @@
                   <v-col lg="6" md="6" cols="12" order="2" order-md="1">
                     <div class="details mt_md--30 mt_sm--30">
                       <p>
-                        but the majority have suffered alteration in some form,
-                        by injected humour, or randomised words which don't look
-                        even slightly believable. If you are going to use a
-                        passage of Lorem Ipsum. You need to be sure there isn't
-                        anything embarrassing
+                        
                       </p>
                       <p>
-                        hidden in the middle of text. All the Lorem Ipsum
-                        generators tend toitrrepeat predefined chunks.
-                        Necessary, making this the first true generator on the
-                        Internet.
+                        
                       </p>
-                      <h4 class="title">Our Working Process</h4>
+                      <h4 class="title">My Working Process</h4>
                       <ul class="liststyle bullet">
-                        <li>Yet this above sewed flirted opened ouch</li>
-                        <li>Goldfinch realistic sporadic ingenuous</li>
-                        <li>
-                          Abominable this abidin far successfully then like
-                          piquan
-                        </li>
+                        <li>My process is simple:</li>
+                        <li>I meet with a client and discuss their needs.</li>
+                        <li>Then I create a mockup of what I interpret from that conversation.</li>
+                        <li>Receive feedback from client</li>
+                        <li>Test vigoursly.</li>
+                        <li> Launch site.</li>
                       </ul>
                     </div>
                   </v-col>
                   <v-col lg="6" md="6" cols="12" order="1" order-md="2">
                     <div class="thumb position-relative">
-                      <CoolLightBox
-                        :items="items"
-                        :index="index"
-                        @close="index = null"
-                      >
-                      </CoolLightBox>
-
+                      <img src="https://i.imgur.com/RuBhh5y.jpg" />
                       <div class="thumbnail position-relative">
-                        <div
-                          v-for="(image, imageIndex) in items"
-                          :key="imageIndex"
-                        >
-                          <img
-                            class="w-100"
-                            :src="image.thumb"
-                            alt="About Images"
-                          />
-                          <a
-                            @click="index = imageIndex"
-                            class="video-popup play__btn"
-                            ><span class="play-icon"></span
-                          ></a>
-                        </div>
+                        <div class="thumb"></div>
                       </div>
                     </div>
                   </v-col>
@@ -136,7 +101,6 @@
         </v-row>
       </v-container>
     </div>
-
     <Footer />
   </div>
 </template>
@@ -154,7 +118,7 @@
         items: [
           {
             thumb: require("../../assets/images/service/service-02.png"),
-            src: "https://www.youtube.com/watch?v=ZOoVOfieAF8",
+            src: "https://i.imgur.com/RuBhh5y.jpg",
           },
         ],
         index: null,
