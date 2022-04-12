@@ -82,19 +82,6 @@
       <div class="social-share-inner">
         <socialTwo />
       </div>
-      <a
-        class="rn-btn"
-        href="https://themeforest.net/checkout/from_item/30195230?license=regular"
-      >
-        <span>buy now</span>
-      </a>
-      <v-btn
-        icon
-        class="ma-0 pa-0 hidden-md-and-up"
-        @click="drawer = !drawer"
-        v-html="iconSvg(icon)"
-      >
-      </v-btn>
       <!-- End mobile menu icon -->
     </v-app-bar>
     <!-- End top header navbar -->

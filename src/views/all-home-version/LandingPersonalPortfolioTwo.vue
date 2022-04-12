@@ -66,7 +66,7 @@
         <v-row>
           <v-col lg="12">
             <div class="section-title section-title--2 text-center mb--20">
-              <h2 class="heading-title">My Latest Project</h2>
+              <h2 class="heading-title">My Latest Projects</h2>
               <p class="text-left">
                 I am ambitious and user-focused with experience working in teams and independently. 
               <p class="text-left">I have strong project management experience and experience 
@@ -97,8 +97,7 @@
             <div class="section-title text-left">
               <h2>Latest News</h2>
               <p>
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered alteration.
+                Below are some of the projects I am currently working on.
               </p>
             </div>
           </v-col>
@@ -119,8 +118,8 @@
             <img
               slot="contact-img"
               class="w-100"
-              src="../../assets/images/about/about-9.jpg"
-              alt="trydo"
+              src="../../assets/images/portfolio/stormphoto.jpg"
+              alt="storm"
             />
           </Contact>
         </v-container>

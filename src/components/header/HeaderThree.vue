@@ -262,7 +262,7 @@
         class="rn-btn"
         href="https://themeforest.net/checkout/from_item/30195230?license=regular"
       >
-        <span>buy now</span>
+        <span>apples</span>
       </a>
       <v-btn
         icon
