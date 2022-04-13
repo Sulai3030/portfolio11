@@ -48,7 +48,7 @@
             >
               <h2 class="heading-title">My Services</h2>
               <p class="text-left">
-                Hello! I am Sulai Sivadel. I'm a Frontend Developer who is passionate about building great user experiences. There is mnoting better than a well contrsuctied and navigable website, my aim is to deliver that for you and your customers.
+                I'm a Frontend Developer who is passionate about building great user experiences. There is nothing better than a well contrsuctied and navigable website, my aim is to deliver that for you and your customers.
             </div>
           </v-col>
         </v-row>

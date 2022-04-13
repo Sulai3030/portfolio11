@@ -16,7 +16,7 @@
           <v-col cols="12">
             <div class="rn-page-title text-center pt--100">
               <h2 class="headingtitle theme-gradient">WEBSITE DEVELOPMENT</h2>
-              <p class="text-left">I develop and maintain user oriented websites. </p>
+              <p class="text-center">I develop and maintain user oriented websites. </p>
             </div>
           </v-col>
         </v-row>
