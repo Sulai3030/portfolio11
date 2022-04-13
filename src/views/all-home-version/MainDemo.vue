@@ -2,7 +2,7 @@
   <div>
     <!-- Start Header Area -->
     <Header>
-      <img slot="logo" src="src/assets/images/logo/favicon2.ico"/>
+      <img slot="logo" src="../../assets/images/logo/logo.png" />
     </Header>
     <!-- End Header Area -->
 
