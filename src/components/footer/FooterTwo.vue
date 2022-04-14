@@ -32,7 +32,7 @@
           <div class="inner text-md-right text-center mt_md--20 mt_sm--20">
             <div class="text">
               <p>
-                Copyright © {{ new Date().getFullYear() }} Rainbow-Themes. All
+                Copyright © {{ new Date().getFullYear() }} Sulai Sivadel. All
                 Rights Reserved.
               </p>
             </div>
@@ -49,7 +49,7 @@
   export default {
     data() {
       return {
-        logo: require("../../assets/images/logo/logo.png"),
+        logo: require("../../assets/images/logo/apple-touch-icon.png"),
         socialList: [
           {
             icon: "fa-linkedin-in",

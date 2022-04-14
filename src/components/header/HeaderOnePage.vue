@@ -9,7 +9,7 @@
       <v-list-item class="pa-5">
         <div class="logo">
           <img
-            src="../../assets/images/logo/logo-symbol-dark.png"
+            src="../../assets/images/logo/s_thumbnail_header.png"
             alt="Creative Agency Logo"
           />
         </div>
