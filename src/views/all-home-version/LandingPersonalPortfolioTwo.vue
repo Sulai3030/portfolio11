@@ -6,13 +6,13 @@
     <!-- Start Slider Area  -->
     <div class="rn-slider-area poss_relative" id="home">
       <div
-        class="slide personal-portfolio-slider slider-style-3 slider-paralax bg_image bg_image--25 d-flex align-center"
+        class="slide personal-portfolio-slider slider-style-3 slider-paralax bg_image bg-image-8 d-flex align-center"
       >
         <BannerThree>
           <span slot="designation">FREELANCE Web Developer and Designer</span>
-          <h1 class="heading-title" slot="heading-title">
-            Hello, I’m <span>Sulai Sivadel.</span> Welcome to my Portfolio.
-          </h1>
+          <h2 class="heading-title" slot="heading-title">
+            I am Sulai Sivadel. Welcome to my Portfolio.
+          </h2>
         </BannerThree>
       </div>
     </div>
