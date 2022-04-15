@@ -101,6 +101,161 @@
         </v-row>
       </v-container>
     </div>
+     <div class="rn-service-details-health rn-section-gap bg_color--1">
+      <v-container>
+        <v-row>
+          <v-col lg="12">
+            <div class="service-details-inner">
+              <div class="inner">
+                <!-- Start Single Content  -->
+                <v-row
+                  class="sercice-details-content pb--80 align-items-center"
+                >
+                  <v-col lg="6" md="6" cols="12">
+                    <div class="thumb">
+                      <img
+                        class="w-100"
+                        src="https://i.imgur.com/8Jk5vIg.jpg"
+                        alt="Service Images"
+                      />
+                    </div>
+                  </v-col>
+                  <v-col lg="6" md="6" cols="12">
+                    <div class="details mt_md--30 mt_sm--30">
+                      <p id="professional">
+                        I have written extensively in the healthcare realm.
+                      </p>
+                      <p>
+                        Below are links to, and screenshots of satified custormers' websites.
+                      </p>
+                      <h4 class="title"></h4>
+                      <ul class="liststyle bullet">
+                        <li><a href="https://blackhealthmatters.com/lauren-lee-talks-kidney-disease-breakthroughs/">Lauren Lee talks kidney disease breakthroughs</a></li>
+                        <li><a href="https://www.mayapplecenter.org/">Mayapple Center for the Arts</a></li>
+                        <li><a href="https://www.johndavidwest.com/">John David West: Social Media + Photography</a></li>
+                        <li><a href="https://nymedicaidchoice.com/">New York Medicaid Choice by Maxim</a></li>
+                        <li><a href="https://www.princetonreview.com/law-school-advice/strategies-to-succeed">The Princeton Review</a></li>
+                      </ul>
+                    </div>
+                  </v-col>
+                </v-row>
+                <!-- End Single Content  -->
+
+                <!-- Start Single Content  -->
+                <v-row class="sercice-details-content align-items-center">
+                  <v-col lg="6" md="6" cols="12" order="2" order-md="1">
+                    <div class="details mt_md--30 mt_sm--30">
+                      <p>
+                        
+                      </p>
+                      <p>
+                        
+                      </p>
+                      <h4 class="title">Health Writing and Reporting</h4>
+                      <ul class="liststyle bullet">
+                        <li>My process is simple:</li>
+                        <li>I meet with a client and discuss their needs.</li>
+                        <li>Then I create a mockup of what I interpret from that conversation.</li>
+                        <li>Receive feedback from client</li>
+                        <li>Test vigoursly.</li>
+                        <li> Launch site.</li>
+                      </ul>
+                    </div>
+                  </v-col>
+                  <v-col lg="6" md="6" cols="12" order="1" order-md="2">
+                    <div class="thumb position-relative">
+                      <img src="https://i.imgur.com/X0Gi2TQ.jpg"/>
+                      <div class="thumbnail position-relative">
+                        <div class="thumb"></div>
+                      </div>
+                    </div>
+                  </v-col>
+                </v-row>
+                <!-- End Single Content  -->
+              </div>
+            </div>
+          </v-col>
+        </v-row>
+      </v-container>
+    </div>
+    <div class="rn-service-details-health rn-section-gap bg_color--1">
+      <v-container>
+        <v-row>
+          <v-col lg="12">
+            <div class="service-details-inner">
+              <div class="inner">
+                <!-- Start Single Content  -->
+                <v-row
+                  class="sercice-details-content pb--80 align-items-center"
+                >
+                  <v-col lg="6" md="6" cols="12">
+                    <div class="thumb">
+                      <img
+                        class="w-100"
+                        src="https://i.imgur.com/8Jk5vIg.jpg"
+                        alt="Service Images"
+                      />
+                    </div>
+                  </v-col>
+                  <v-col lg="6" md="6" cols="12">
+                    <div class="details mt_md--30 mt_sm--30">
+                      <p id="professional">
+                        I am a professional writer specializing in health, science, techical writng for large and small companies<br>
+                        as well as film and TV criticism. Samples of my writings are below.
+                      </p>
+                      <p>
+                        Below are links to, and screenshots of satified custormers' websites.
+                      </p>
+                      <h4 class="title"></h4>
+                      <ul class="liststyle bullet">
+                        <li><a href="https://partydash.com/">PARTYDASH.COM</a></li>
+                        <li><a href="https://www.mayapplecenter.org/">Mayapple Center for the Arts</a></li>
+                        <li><a href="https://www.johndavidwest.com/">John David West: Social Media + Photography</a></li>
+                        <li><a href="https://nymedicaidchoice.com/">New York Medicaid Choice by Maxim</a></li>
+                        <li><a href="https://www.princetonreview.com/law-school-advice/strategies-to-succeed">The Princeton Review</a></li>
+                      </ul>
+                    </div>
+                  </v-col>
+                </v-row>
+                <!-- End Single Content  -->
+
+                <!-- Start Single Content  -->
+                <v-row class="sercice-details-content align-items-center">
+                  <v-col lg="6" md="6" cols="12" order="2" order-md="1">
+                    <div class="details mt_md--30 mt_sm--30">
+                      <p>
+                        
+                      </p>
+                      <p>
+                        
+                      </p>
+                      <h4 class="title">Film Reporting and Criticism</h4>
+                      <ul class="liststyle bullet">
+                        <li>My process is simple:</li>
+                        <li>I meet with a client and discuss their needs.</li>
+                        <li>Then I create a mockup of what I interpret from that conversation.</li>
+                        <li>Receive feedback from client</li>
+                        <li>Test vigoursly.</li>
+                        <li> Launch site.</li>
+                      </ul>
+                    </div>
+                  </v-col>
+                  <v-col lg="6" md="6" cols="12" order="1" order-md="2">
+                    <div class="thumb position-relative">
+                      <img src="https://i.imgur.com/myoXfGB.jpg"/>
+                      <div class="thumbnail position-relative">
+                        <div class="thumb"></div>
+                      </div>
+                    </div>
+                  </v-col>
+                </v-row>
+                <!-- End Single Content  -->
+              </div>
+            </div>
+          </v-col>
+        </v-row>
+      </v-container>
+    </div>
     <Footer />
   </div>
 </template>
