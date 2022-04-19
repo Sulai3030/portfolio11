@@ -87,7 +87,7 @@
                   </v-col>
                   <v-col lg="6" md="6" cols="12" order="1" order-md="2">
                     <div class="thumb position-relative">
-                      <img src="https://i.imgur.com/RuBhh5y.jpg" />
+                      <img src="https://i.imgur.com/5vWx3CK.jpg" />
                       <div class="thumbnail position-relative">
                         <div class="thumb"></div>
                       </div>
@@ -115,7 +115,7 @@
                     <div class="thumb">
                       <img
                         class="w-100"
-                        src="https://i.imgur.com/8Jk5vIg.jpg"
+                        src="https://i.imgur.com/OqgKnXy.jpg"
                         alt="Service Images"
                       />
                     </div>
@@ -126,15 +126,16 @@
                         I have written extensively in the healthcare realm.
                       </p>
                       <p>
-                        Below are links to, and screenshots of satified custormers' websites.
+                        
                       </p>
                       <h4 class="title"></h4>
                       <ul class="liststyle bullet">
                         <li><a href="https://blackhealthmatters.com/lauren-lee-talks-kidney-disease-breakthroughs/">Lauren Lee talks kidney disease breakthroughs</a></li>
-                        <li><a href="https://www.mayapplecenter.org/">Mayapple Center for the Arts</a></li>
-                        <li><a href="https://www.johndavidwest.com/">John David West: Social Media + Photography</a></li>
-                        <li><a href="https://nymedicaidchoice.com/">New York Medicaid Choice by Maxim</a></li>
-                        <li><a href="https://www.princetonreview.com/law-school-advice/strategies-to-succeed">The Princeton Review</a></li>
+                        <li><a href="https://blackhealthmatters.com/is-there-a-light-at-the-end-of-the-dark-tunnel-of-kidney-disease-in-children/">Is there light at the end of the tunnel of kidney Disease?</a></li>
+                        <li><a href="https://blackhealthmatters.com/working-with-your-doctor-when-you-have-kidney-disease-empowering-yourself-to-be-an-advocate-for-you">Working with your doctor. Empowering Yourself to be an Advocate for Yourself</a></li>
+                        <li><a href="https://blackhealthmatters.com/kidney-disease/what-is-fsgs/">What is FSGS?</a></li>
+                        <li><a href="https://blackhealthmatters.com/kidney-disease/truth-about-chronic-kidney-disease/">The Truth About Kidney Disease.</a></li>
+                        <li><a href="https://blackhealthmatters.com/clinical-trials/how-can-i-find-a-clinical-trial/">How Can I Be In A Clinical Trial?</a></li>
                       </ul>
                     </div>
                   </v-col>
@@ -145,20 +146,9 @@
                 <v-row class="sercice-details-content align-items-center">
                   <v-col lg="6" md="6" cols="12" order="2" order-md="1">
                     <div class="details mt_md--30 mt_sm--30">
-                      <p>
-                        
-                      </p>
-                      <p>
-                        
-                      </p>
-                      <h4 class="title">Health Writing and Reporting</h4>
+                      <h4 class="title">Health Policy Writing and Reporting</h4>
                       <ul class="liststyle bullet">
-                        <li>My process is simple:</li>
-                        <li>I meet with a client and discuss their needs.</li>
-                        <li>Then I create a mockup of what I interpret from that conversation.</li>
-                        <li>Receive feedback from client</li>
-                        <li>Test vigoursly.</li>
-                        <li> Launch site.</li>
+                        <li><a href="https://nymedicaidchoice.com//">NewYorkMedicaidChoice.com</a></li>
                       </ul>
                     </div>
                   </v-col>
@@ -200,19 +190,10 @@
                   <v-col lg="6" md="6" cols="12">
                     <div class="details mt_md--30 mt_sm--30">
                       <p id="professional">
-                        I am a professional writer specializing in health, science, techical writng for large and small companies<br>
-                        as well as film and TV criticism. Samples of my writings are below.
+                        I am also a technincal writer having written for the New York City Department of Bulidings when they digitized their process.
                       </p>
-                      <p>
-                        Below are links to, and screenshots of satified custormers' websites.
-                      </p>
-                      <h4 class="title"></h4>
                       <ul class="liststyle bullet">
-                        <li><a href="https://partydash.com/">PARTYDASH.COM</a></li>
-                        <li><a href="https://www.mayapplecenter.org/">Mayapple Center for the Arts</a></li>
-                        <li><a href="https://www.johndavidwest.com/">John David West: Social Media + Photography</a></li>
-                        <li><a href="https://nymedicaidchoice.com/">New York Medicaid Choice by Maxim</a></li>
-                        <li><a href="https://www.princetonreview.com/law-school-advice/strategies-to-succeed">The Princeton Review</a></li>
+                        <li><a href="https://a810-dobnow.nyc.gov/publish/Index.html#!/">New York City Dept. of Buildings </a></li>
                       </ul>
                     </div>
                   </v-col>
@@ -223,15 +204,9 @@
                 <v-row class="sercice-details-content align-items-center">
                   <v-col lg="6" md="6" cols="12" order="2" order-md="1">
                     <div class="details mt_md--30 mt_sm--30">
-                      <p>
-                        
-                      </p>
-                      <p>
-                        
-                      </p>
                       <h4 class="title">Film Reporting and Criticism</h4>
                       <ul class="liststyle bullet">
-                        <li>My process is simple:</li>
+                        <li><a href="https://a810-dobnow.nyc.gov/publish/Index.html#!/">https://screenrant.com/author/sulai/My process is simple:</li>
                         <li>I meet with a client and discuss their needs.</li>
                         <li>Then I create a mockup of what I interpret from that conversation.</li>
                         <li>Receive feedback from client</li>
