@@ -87,7 +87,7 @@
                   </v-col>
                   <v-col lg="6" md="6" cols="12" order="1" order-md="2">
                     <div class="thumb position-relative">
-                      <img src="https://i.imgur.com/5vWx3CK.jpg" />
+                      <img src="https://i.imgur.com/eOpUn1T.png"/>
                       <div class="thumbnail position-relative">
                         <div class="thumb"></div>
                       </div>
@@ -123,7 +123,7 @@
                   <v-col lg="6" md="6" cols="12">
                     <div class="details mt_md--30 mt_sm--30">
                       <p id="professional">
-                        I have written extensively in the healthcare realm.
+                        I have written extensively in the<p id="healthcare"> healthcare</p>realm. My writings include articles, and interviews. 
                       </p>
                       <p>
                         
@@ -131,7 +131,7 @@
                       <h4 class="title"></h4>
                       <ul class="liststyle bullet">
                         <li><a href="https://blackhealthmatters.com/lauren-lee-talks-kidney-disease-breakthroughs/">Lauren Lee talks kidney disease breakthroughs</a></li>
-                        <li><a href="https://blackhealthmatters.com/is-there-a-light-at-the-end-of-the-dark-tunnel-of-kidney-disease-in-children/">Is there light at the end of the tunnel of kidney Disease?</a></li>
+                        <li><a href="https://blackhealthmatters.com/is-there-a-light-at-the-end-of-the-dark-tunnel-of-kidney-disease-in-children/">Is there light at the end of the tunnel of kidney    Disease? An interview with Dr. Gbadegesin </a></li>
                         <li><a href="https://blackhealthmatters.com/working-with-your-doctor-when-you-have-kidney-disease-empowering-yourself-to-be-an-advocate-for-you">Working with your doctor. Empowering Yourself to be an Advocate for Yourself</a></li>
                         <li><a href="https://blackhealthmatters.com/kidney-disease/what-is-fsgs/">What is FSGS?</a></li>
                         <li><a href="https://blackhealthmatters.com/kidney-disease/truth-about-chronic-kidney-disease/">The Truth About Kidney Disease.</a></li>
@@ -154,7 +154,7 @@
                   </v-col>
                   <v-col lg="6" md="6" cols="12" order="1" order-md="2">
                     <div class="thumb position-relative">
-                      <img src="https://i.imgur.com/X0Gi2TQ.jpg"/>
+                      <img src="https://i.imgur.com/8Jk5vIg.jpg"/>
                       <div class="thumbnail position-relative">
                         <div class="thumb"></div>
                       </div>
@@ -182,8 +182,8 @@
                     <div class="thumb">
                       <img
                         class="w-100"
-                        src="https://i.imgur.com/8Jk5vIg.jpg"
-                        alt="Service Images"
+                        src="https://i.imgur.com/2KCsobk.png"
+                        alt="Street at Sunset"
                       />
                     </div>
                   </v-col>
@@ -206,13 +206,14 @@
                     <div class="details mt_md--30 mt_sm--30">
                       <h4 class="title">Film Reporting and Criticism</h4>
                       <ul class="liststyle bullet">
-                        <li><a href="https://a810-dobnow.nyc.gov/publish/Index.html#!/">https://screenrant.com/author/sulai/My process is simple:</li>
-                        <li>I meet with a client and discuss their needs.</li>
-                        <li>Then I create a mockup of what I interpret from that conversation.</li>
-                        <li>Receive feedback from client</li>
-                        <li>Test vigoursly.</li>
-                        <li> Launch site.</li>
+                       <p class="text-left">For years I wrote Film and TV reviews. Samples can be found here:</p>
+                       <p class="text-left"><a href="https://screenrant.com/author/sulai/">https://screenrant.com/author/sulai/</a></p>
                       </ul>
+                    </div>
+                    <div>
+                        <p class="text-left">And here:</p> 
+                        <p class="text-left">Film Writing samples</p>
+                        <p class="text-left"><a href="https://screenrant.com/author/sulai/">https://screenrant.com/author/sulai/</a></p>
                     </div>
                   </v-col>
                   <v-col lg="6" md="6" cols="12" order="1" order-md="2">
