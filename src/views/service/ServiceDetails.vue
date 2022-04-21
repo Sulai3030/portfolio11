@@ -136,7 +136,7 @@
                   <v-col lg="6" md="6" cols="12" order="2" order-md="1">
                     <div class="details mt_md--30 mt_sm--30">
                       <h4 class="title">Health Policy Writing and Reporting</h4>
-                      <p>I have also edited and written healthcare policy for official websites such as this one for the state of New York touting the roll-out of a new health insurance plan for the disabled population in New York State. </p>
+                      <p class="health-and-policy">I have also edited and written healthcare policy for official websites such as this one for the state of New York touting the roll-out of a new health insurance plan for the disabled population in New York State. </p>
                       <ul class="liststyle bullet">
                         <li><a href="https://nymedicaidchoice.com//">New York Medicaid Choice.com</a></li>
                       </ul>
