@@ -16,7 +16,8 @@
           <v-col cols="12">
             <div class="rn-page-title text-center pt--100">
               <h2 class="headingtitle theme-gradient">WEBSITE DEVELOPMENT</h2>
-              <p class="text-center">I develop and maintain user oriented websites. </p>
+              <p class="text-center">I develop and maintain user oriented websites, <a href="#copywriting">Healthcare Copy Writing</a> </p>
+              
             </div>
           </v-col>
         </v-row>
@@ -116,8 +117,10 @@
                   </v-col>
                   <v-col lg="6" md="6" cols="12">
                     <div class="details mt_md--30 mt_sm--30">
+                      <h4 class="headingtitle theme-gradient"><a href="#copywriting">Healthcare Copywriting</a></h4>
                       <p id="professional">
                         I have written extensively in the healthcare realm. My writings include articles, and interviews with subject matter experts (SMEs).<p>
+                      <p id="professional">Here are examples of my work.</p>
                       <ul class="liststyle bullet">
                         <li><a href="https://blackhealthmatters.com/lauren-lee-talks-kidney-disease-breakthroughs/">Lauren Lee talks kidney disease breakthroughs</a></li>
                         <li><a href="https://blackhealthmatters.com/is-there-a-light-at-the-end-of-the-dark-tunnel-of-kidney-disease-in-children/">Is there light at the end of the tunnel of kidney    Disease? An interview with Dr. Gbadegesin </a></li>
@@ -135,8 +138,8 @@
                 <v-row class="sercice-details-content align-items-center">
                   <v-col lg="6" md="6" cols="12" order="2" order-md="1">
                     <div class="details mt_md--30 mt_sm--30">
-                      <h4 class="title">Health Policy Writing and Reporting</h4>
-                      <p class="health-and-policy">I have also edited and written healthcare policy for official websites such as this one for the state of New York touting the roll-out of a new health insurance plan for the disabled population in New York State. </p>
+                      <h4 class="headingtitle theme-gradient">Health Policy Writing and Reporting</h4>
+                      <p class="health-and-policy">I have also edited and written healthcare policy for official websites such as this one for the State of New York touting the roll-out of a new health insurance plan for the disabled population. New York Medicaid Choice is the managed care enrollment program of the New York State Department of Health.</p>
                       <ul class="liststyle bullet">
                         <li><a href="https://nymedicaidchoice.com//">New York Medicaid Choice.com</a></li>
                       </ul>
@@ -179,7 +182,7 @@
                   </v-col>
                   <v-col lg="6" md="6" cols="12">
                     <div class="details mt_md--30 mt_sm--30">
-                      <h4 class="title">Technical Writing</h4>
+                      <h4 class="headingtitle theme-gradient">Technical Writing</h4>
                       <p id="professional">
                         I am also a technincal writer having written for the New York City Department of Bulidings when they digitized the process by which building owners register to build new, or improve upon existing, structures in the city of New York.
                       </p>
@@ -195,7 +198,7 @@
                 <v-row class="sercice-details-content align-items-center">
                   <v-col lg="6" md="6" cols="12" order="2" order-md="1">
                     <div class="details mt_md--30 mt_sm--30">
-                      <h4 class="title">Film Reporting and Criticism</h4>
+                      <h4 class="headingtitle theme-gradient">Film Reporting and Criticism</h4>
                       <ul class="liststyle bullet">
                        <p class="text-left">For years I wrote Film and TV reviews. Samples can be found here:</p>
                        <p class="text-left"><a href="https://screenrant.com/author/sulai/">https://screenrant.com/author/sulai/</a></p>
