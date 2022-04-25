@@ -15,9 +15,8 @@
         <v-row>
           <v-col cols="12">
             <div class="rn-page-title text-center pt--100">
-              <h2 class="headingtitle theme-gradient">WEBSITE DEVELOPMENT</h2>
-              <p class="text-center">I develop and maintain user oriented websites, <a href="#copywriting">Healthcare Copy Writing</a> </p>
-              
+              <h2 class="headingtitle theme-gradient">WEBSITE DEVELOPMENT</h2> 
+              <p class="text-center">I develop and maintain user oriented websites,</p>
             </div>
           </v-col>
         </v-row>
@@ -117,10 +116,12 @@
                   </v-col>
                   <v-col lg="6" md="6" cols="12">
                     <div class="details mt_md--30 mt_sm--30">
-                      <h4 class="headingtitle theme-gradient"><a href="#copywriting">Healthcare Copywriting</a></h4>
-                      <p id="professional">
+                      <h4 class="headingtitle theme-gradient">
+                       <p class="text-center"><a href="#top">Healthcare Copy Writing</a> </p>
+                      </h4>
+                      <p>
                         I have written extensively in the healthcare realm. My writings include articles, and interviews with subject matter experts (SMEs).<p>
-                      <p id="professional">Here are examples of my work.</p>
+                      <p>Here are examples of my work.</p>
                       <ul class="liststyle bullet">
                         <li><a href="https://blackhealthmatters.com/lauren-lee-talks-kidney-disease-breakthroughs/">Lauren Lee talks kidney disease breakthroughs</a></li>
                         <li><a href="https://blackhealthmatters.com/is-there-a-light-at-the-end-of-the-dark-tunnel-of-kidney-disease-in-children/">Is there light at the end of the tunnel of kidney    Disease? An interview with Dr. Gbadegesin </a></li>
