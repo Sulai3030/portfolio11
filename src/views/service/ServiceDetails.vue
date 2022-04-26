@@ -15,11 +15,42 @@
         <v-row>
           <v-col cols="12">
             <div class="rn-page-title text-center pt--100">
-              <h2 class="headingtitle theme-gradient">WEBSITE DEVELOPMENT</h2> 
-              <p class="text-center">I develop and maintain user oriented websites,</p>
+              <h2 class="headingtitle theme-gradient">Website Development / Writing & Reporting</h2> 
+              <p class="text-center">I develop and maintain user oriented websites, and write and edit content as well</p>
             </div>
           </v-col>
         </v-row>
+       <v-row
+    class="d-flex"
+    justify="center"
+  >
+    <v-menu
+      v-model="showMenu"
+      absolute
+      offset-y
+      style="max-width: 600px"
+    >
+      <template v-slot:activator="{ on, attrs }">
+        <v-card
+          class="portrait"
+          img="https://i.imgur.com/TQjPYI2.jpg"
+          height="300"
+          width="600"
+          v-bind="attrs"
+          v-on="on"
+        ></v-card>
+      </template>
+
+      <v-list>
+        <v-list-item
+          v-for="(item, index) in items"
+          :key="index"
+        >
+          <v-list-item-title>{{ item.title }}</v-list-item-title>
+        </v-list-item>
+      </v-list>
+    </v-menu>
+  </v-row>
       </v-container>
     </div>
     <!-- End Breadcrump Area  -->
@@ -246,7 +277,15 @@
         index: null,
       };
     },
-
+    data: () => ({
+      showMenu: false,
+      items: [
+        { title: 'Heathcare Copy Writing' },
+        { title: 'Healthcare Policy Writing and Reporting' },
+        { title: 'Technical Writing' },
+        { title: 'Film and TV Criticism' },
+      ],
+    }),
     methods: {},
   };
 </script>

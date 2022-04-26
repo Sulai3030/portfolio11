@@ -62,6 +62,12 @@
             desc: `Writing for numerous outposts and delivering breaking news about Hollywood releases.`,
           },
         ],
+        items: [
+        { title: 'Click Me' },
+        { title: 'Click Me' },
+        { title: 'Click Me' },
+        { title: 'Click Me 2' },
+      ],
       };
     },
     methods: {
