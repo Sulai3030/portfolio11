@@ -15,43 +15,50 @@
         <v-row>
           <v-col cols="12">
             <div class="rn-page-title text-center pt--100">
-              <h2 class="headingtitle theme-gradient">Website Development / Writing & Reporting</h2> 
-              <p class="text-center">I develop and maintain user oriented websites, and write and edit content as well</p>
+              <h2 class="headingtitle theme-gradient">Website Development / Writing & Reporting Services</h2> 
+              <p class="text-center">I develop and maintain user oriented websites, and write and edit content as well </p>
             </div>
+            <p></p>
+            <p></p>
+                <v-btn
+                      a @click="$vuetify.goTo('#healthcare', options)"
+                      color="#F42D2D"
+                      elevation="24"
+                      large
+                      raised
+                      rounded
+                    >Healthcare Copywritiing
+                </v-btn> 
+                &nbsp;
+                <v-btn 
+                      a @click="$vuetify.goTo('#policy', options)"
+                      color="#F42D2D"
+                      elevation="24"
+                      large
+                      raised
+                      rounded> Healthcare Policy and Writing
+                </v-btn>
+                &nbsp;
+                <v-btn
+                     a @click="$vuetify.goTo('#technical', options)"
+                      color="#F42D2D"
+                      elevation="24"
+                      large
+                      raised
+                      rounded
+                    >Technical Writing
+                </v-btn>
+                &nbsp;
+                <v-btn
+                    a @click="$vuetify.goTo('#criticism', options)"
+                     color="#F42D2D"
+                      elevation="24"
+                      large
+                      raised
+                      rounded>Film and TV Criticism
+                </v-btn> 
           </v-col>
         </v-row>
-       <v-row
-    class="d-flex"
-    justify="center"
-  >
-    <v-menu
-      v-model="showMenu"
-      absolute
-      offset-y
-      style="max-width: 600px"
-    >
-      <template v-slot:activator="{ on, attrs }">
-        <v-card
-          class="portrait"
-          img="https://i.imgur.com/TQjPYI2.jpg"
-          height="300"
-          width="600"
-          v-bind="attrs"
-          v-on="on"
-        ></v-card>
-      </template>
-
-      <v-list>
-        <v-list-item
-          v-for="(item, index) in items"
-          :key="index"
-        >
-          <v-list-item-title>{{ item.title }}</v-list-item-title>
-        </v-list-item>
-      </v-list>
-    </v-menu>
-  </v-row>
-      </v-container>
     </div>
     <!-- End Breadcrump Area  -->
 
@@ -148,7 +155,7 @@
                   <v-col lg="6" md="6" cols="12">
                     <div class="details mt_md--30 mt_sm--30">
                       <h4 class="headingtitle theme-gradient">
-                       <p class="text-center"><a href="#top">Healthcare Copy Writing</a> </p>
+                       <p class="text-center" id="healthcare">Healthcare Copy Writing</p>
                       </h4>
                       <p>
                         I have written extensively in the healthcare realm. My writings include articles, and interviews with subject matter experts (SMEs).<p>
@@ -171,7 +178,7 @@
                   <v-col lg="6" md="6" cols="12" order="2" order-md="1">
                     <div class="details mt_md--30 mt_sm--30">
                       <h4 class="headingtitle theme-gradient">Health Policy Writing and Reporting</h4>
-                      <p class="health-and-policy">I have also edited and written healthcare policy for official websites such as this one for the State of New York touting the roll-out of a new health insurance plan for the disabled population. New York Medicaid Choice is the managed care enrollment program of the New York State Department of Health.</p>
+                      <p id="policy">I have also edited and written healthcare policy for official websites such as this one for the State of New York touting the roll-out of a new health insurance plan for the disabled population. New York Medicaid Choice is the managed care enrollment program of the New York State Department of Health.</p>
                       <ul class="liststyle bullet">
                         <li><a href="https://nymedicaidchoice.com//">New York Medicaid Choice.com</a></li>
                       </ul>
@@ -215,7 +222,7 @@
                   <v-col lg="6" md="6" cols="12">
                     <div class="details mt_md--30 mt_sm--30">
                       <h4 class="headingtitle theme-gradient">Technical Writing</h4>
-                      <p id="professional">
+                      <p id="technical">
                         I am also a technincal writer having written for the New York City Department of Bulidings when they digitized the process by which building owners register to build new, or improve upon existing, structures in the city of New York.
                       </p>
                       <ul class="liststyle bullet">
@@ -232,7 +239,7 @@
                     <div class="details mt_md--30 mt_sm--30">
                       <h4 class="headingtitle theme-gradient">Film Reporting and Criticism</h4>
                       <ul class="liststyle bullet">
-                       <p class="text-left">For years I wrote Film and TV reviews. Samples can be found here:</p>
+                       <p class="text-left" id="criticism">For years I wrote Film and TV reviews. Samples can be found here:</p>
                        <p class="text-left"><a href="https://screenrant.com/author/sulai/">https://screenrant.com/author/sulai/</a></p>
                        <p class="text-left">Some collected freelance articles are here:</p> 
                        <p class="text-left"><a href="https://screenrant.com/author/sulai/">https://screenrant.com/author/sulai/</a></p>

@@ -2,7 +2,7 @@
   <div>
     <!-- Start Header Area -->
     <Header>
-      <img slot="logo" src="../assets/images/logo/logo.png" />
+      <img slot="logo" src="../assets/images/logo/s_thumbnail_header.png" />
     </Header>
     <!-- End Header Area -->
     <!-- Start 404 Page  -->
