@@ -15,7 +15,7 @@
         <v-row>
           <v-col cols="12">
             <div class="rn-page-title text-center pt--100">
-              <h2 class="headingtitle theme-gradient">Website Development / Writing & Reporting Services</h2> 
+              <h2 class="headingtitle theme-gradient">Website Development & Professional Writing Services</h2> 
               <p class="text-center">I develop and maintain user oriented websites, and write and edit content as well </p>
             </div>
             <p></p>
@@ -101,7 +101,6 @@
                   </v-col>
                 </v-row>
                 <!-- End Single Content  -->
-
                 <!-- Start Single Content  -->
                 <v-row class="sercice-details-content align-items-center">
                   <v-col lg="6" md="6" cols="12" order="2" order-md="1">
