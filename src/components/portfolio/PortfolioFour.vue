@@ -41,33 +41,23 @@
         portfolioContent: [
           {
             src: require("../../assets/images/portfolio/pexels-ylanite-koppens-3123915.jpg"),
-            meta: "Development",
+            meta: "Web Development",
             title: "Party Dash",
           },
           {
             src: require("../../assets/images/portfolio/grounds-landscape_port.jpg"),
-            meta: "Development",
+            meta: "Web Development",
             title: "Mayapple Center for the Arts and Humanities",
           },
           {
             src: require("../../assets/images/portfolio/dave_headshot_04_12_22.jpg"),
-            meta: "Development",
+            meta: "Web Development",
             title: "John David West, Social Media Manager",
           },
           {
             src: require("../../assets/images/portfolio/slater01.jpg"),
-            meta: "Development",
+            meta: "Web Development",
             title: "Michelle Slater, PhD.",
-          },
-          {
-            src: require("../../assets/images/portfolio/portfolio-3.jpg"),
-            meta: "Development",
-            title: "Getting tickets to the big show",
-          },
-          {
-            src: require("../../assets/images/portfolio/portfolio-2.jpg"),
-            meta: "Development",
-            title: "Getting tickets to the big show",
           },
         ],
       };

@@ -48,7 +48,7 @@
             >
               <h2 class="heading-title">My Services</h2>
               <p class="text-left">
-                I'm a Frontend Developer who is passionate about building great user experiences. There is nothing better than a well contrsuctied and navigable website, my aim is to deliver that for you and your customers.
+                I am passionate about building great user experiences. There is nothing better than a well contrsuctied and navigable website. My aim fpr you is to deliver that for you and your customers.
             </div>
           </v-col>
         </v-row>
@@ -68,9 +68,9 @@
             <div class="section-title section-title--2 text-center mb--20">
               <h2 class="heading-title">My Latest Projects</h2>
               <p class="text-left">
-                I am ambitious and user-focused with experience working in teams and independently. 
+                I am user-focused and experienced with working in teams and independently. 
               <p class="text-left">I have strong project management experience and experience 
-                delegating responsibilities to a team.</p>
+                delegating responsibilities to a team. Bringing projects in on time and uneder budget.</p>
               <p class="text-left">A flexible and quick learner committed to constantly learning and evolving skills to stay abreast of ever-evolving technologies and trends in the industry. Communicative, knowledgeable and steadfast with excellent computer engineering skills. HTML5, CSS,JavaScript, VueJS, and ReactJS.
               When I'm not coding, you'll find me baking delicous desserts.
               </p>

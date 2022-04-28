@@ -10,8 +10,8 @@
       <v-list-item class="pa-5">
         <div class="logo">
           <img
-            src="../../assets/images/logo/logo-symbol-dark.png"
-            alt="Creative Agency Logo"
+            src="../../assets/images/logo/s_thumbnail_header.png"
+            alt="S Logo"
           />
         </div>
         <v-spacer></v-spacer>
@@ -289,27 +289,12 @@ export default {
       { title: "Contact", to: "/contact" },
     ],
     HomeVerisiondropDownItems: [
-      { title: "Main Demo", to: "/main-demo" },
-      { title: "Main Demo Dark", to: "/main-demo-dark" },
-      { title: "Creative Agency", to: "/creative-agency" },
-      { title: "Creative Agency Landing", to: "/landing-creative-agency" },
       { title: "Personal Portfolio", to: "/personal-portfolio" },
       { title: "Personal Portfolio 02", to: "landing-personal-portfolio-02" },
       {
         title: "Sulai Sivadel: Web Developer",
         to: "/landing-personal-portfolio",
       },
-      { title: "Designer Portfolio", to: "/designer-portfolio" },
-      { title: "Creative Portfolio", to: "/creative-portfolio" },
-      { title: "Business", to: "/business" },
-      { title: "Digital Agency", to: "/digital-agency" },
-      { title: "Minimal Portfolio", to: "/minimal-portfolio" },
-      { title: "Studio Agency", to: "/studio-agency" },
-      { title: "Home Particles", to: "/landing-home-particle" },
-      { title: "Startup", to: "/startup" },
-      { title: "Home Paralax", to: "/parallax-home" },
-      { title: "Corporate Business", to: "/corporate-business" },
-      { title: "Interactive Agency", to: "/interactive-agency" },
     ],
     ServicesdropDownItems: [
       { title: "Service", to: "/service" },
@@ -326,21 +311,14 @@ export default {
     ],
     blocksDropDownItems: [
       { title: "Portfolio", to: "/portfolio" },
-      { title: "Team", to: "/team" },
+      
       { title: "Service", to: "/service" },
-      { title: "Video Popup", to: "/video-popup" },
-      { title: "Progressbar", to: "/progressbar" },
-      { title: "Gallery", to: "/gallery" },
-      { title: "Counters", to: "/counter" },
+      
       { title: "Blog List", to: "/blog" },
-      { title: "Client Logo", to: "/brand" },
+      
       { title: "Contact Form", to: "/contact-form" },
       { title: "Columns", to: "/column" },
-      { title: "Button", to: "/button" },
-      { title: "List Style", to: "/list-style" },
-      { title: "Testimonial", to: "/testimonial" },
-      { title: "Accordion", to: "/accordion-with-tab" },
-      { title: "Pricing Plan", to: "/pricing-plan" },
+      
     ],
 
     // Bellow mobile menu items

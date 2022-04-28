@@ -11,7 +11,7 @@
         <div class="logo">
           <img
             src="../../assets/images/logo/s_thumbnail_header.png"
-            alt="Creative Agency Logo"
+            alt="S Logo"
           />
         </div>
         <v-spacer></v-spacer>

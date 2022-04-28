@@ -38,17 +38,17 @@
       return {
         blogContent: [
           {
-            src: require("../../assets/images/blog/blog-01.jpg"),
+            src: require("../../assets/images/blog/52027722905_0df1f45afa_w.jpg"),
+            meta: "Development",
+            title: "First Post",
+          },
+          {
+            src: require("../../assets/images/blog/51972410429_4508024bd4_w.jpg"),
             meta: "Development",
             title: "Getting tickets to the big show",
           },
           {
-            src: require("../../assets/images/blog/blog-02.jpg"),
-            meta: "Development",
-            title: "Getting tickets to the big show",
-          },
-          {
-            src: require("../../assets/images/blog/blog-03.jpg"),
+            src: require("../../assets/images/blog/51972192598_ac11da01ca_w.jpg"),
             meta: "Development",
             title: "Getting tickets to the big show",
           },

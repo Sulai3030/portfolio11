@@ -87,7 +87,7 @@
                         From conception to launch, from wireframe to testing I will dutifully complete and maintain your website.
                       </p>
                       <p>
-                        Below are links to, and screenshots of satified custormers' websites.
+                        Below are links to, and screenshots of, satified custormers' websites.
                       </p>
                       <h4 class="title"></h4>
                       <ul class="liststyle bullet">

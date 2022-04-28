@@ -9,11 +9,9 @@
       <div class="about-inner inner pt--100 pt_sm--40 pt_md--40">
         <div class="section-title">
           <h2 class="heading-title">About Me</h2>
-          <p class="description">
-                Hello! I am Sulai Sivadel.</p>
-           <p class="description"> I'm a Frontend Developer who is passionate about building great user experiences. I am ambitious and user-focused with experience working not only in teams but independently.</p> 
+           <p class="description"> I am a Frontend Developer who is passionate about building great user experiences. I am ambitious and user-focused with experience working not only in teams but independently.</p> 
            <p class="description">I have strong project management experience and experience delegating responsibilities to a team.
-              Flexible and a quick learner committed to constantly learning and evolving my skills to stay abreast of ever-evolving technologies and trends in the industry. </p>
+              A flexible and a quick learner committed to constantly learning and evolving my skills I try to stay abreast of ever-evolving technologies and trends in the industry. </p>
             <p class="description">Communicative, knowledgeable and steadfast with excellent computer engineering skills. HTML5, CSS,JavaScript, VueJS, and ReactJS. When I'm not coding, you'll find me baking delicous desserts.</p>
         </div>
         <!-- End .section-title -->
