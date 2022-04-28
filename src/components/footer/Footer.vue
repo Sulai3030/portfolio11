@@ -79,10 +79,6 @@
       return {
         socialList: [
           {
-            icon: "fa-facebook-f",
-            url: "https://www.facebook.com/",
-          },
-          {
             icon: "fa-linkedin-in",
             url: "https://www.linkedin.com/in/sulai3030/",
           },
@@ -111,12 +107,8 @@
         ],
         mailList: [
           {
-            mailItem: "admin@example.com",
-            to: "mailto:admin@example.com",
-          },
-          {
-            mailItem: "hr@example.com",
-            to: "mailto:hr@example.com",
+            mailItem: "sulai3030@gmail.com",
+            to: "mailto:sulai3030@gmail.com",
           },
         ],
       };
