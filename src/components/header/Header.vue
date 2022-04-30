@@ -266,12 +266,7 @@
         </v-menu>
         <!-- End blocks dropdown -->
         <v-btn :ripple="false" text to="/contact">Contact</v-btn>
-        <a
-          class="rn-btn"
-          href="https://themeforest.net/checkout/from_item/30195230?license=regular"
-        >
-          <span>buy now</span>
-        </a>
+        
       </v-toolbar-items>
       <!-- End header menu item -->
     </v-app-bar>
@@ -285,19 +280,18 @@ export default {
   data: () => ({
     drawer: false,
     items: [
-      { title: "About", to: "/about" },
+      //{ title: "About", to: "/about" },
       { title: "Contact", to: "/contact" },
     ],
     HomeVerisiondropDownItems: [
-      { title: "Personal Portfolio", to: "/personal-portfolio" },
       { title: "Personal Portfolio 02", to: "landing-personal-portfolio-02" },
       {
         title: "Sulai Sivadel: Web Developer",
-        to: "/landing-personal-portfolio",
+        to: "/landing-personal-portfolio-02",
       },
     ],
     ServicesdropDownItems: [
-      { title: "Service", to: "/service" },
+      
       { title: "Service Details", to: "/service-details" },
     ],
     PagesdropDownItems: [
@@ -305,8 +299,8 @@ export default {
       { title: "Blog Details", to: "/blog-details" },
       { title: "Service", to: "/service" },
       { title: "Service Details", to: "/service-details" },
-      { title: "Portfolio", to: "/portfolio" },
-      { title: "Portfolio Details", to: "/portfolio-details" },
+      { title: "Personal Portfolio 02", to: "landing-personal-portfolio-02" },
+     
       { title: "404 Page", to: "/404" },
     ],
     blocksDropDownItems: [

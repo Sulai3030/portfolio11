@@ -9,7 +9,7 @@
     <!-- Start Breadcrump Area  -->
     <div
       class="rn-page-title-area pt--120 pb--190"
-      data-black-overlay="5"
+      data-black-overlay="20"
     >
       <v-container>
         <v-row>
