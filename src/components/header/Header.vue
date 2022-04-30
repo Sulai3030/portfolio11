@@ -284,7 +284,7 @@ export default {
       { title: "Contact", to: "/contact" },
     ],
     HomeVerisiondropDownItems: [
-      { title: "Personal Portfolio 02", to: "landing-personal-portfolio-02" },
+      //{ title: "Personal Portfolio 02", to: "landing-personal-portfolio-02" },
       {
         title: "Sulai Sivadel: Web Developer",
         to: "/landing-personal-portfolio-02",
