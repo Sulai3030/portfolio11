@@ -27,7 +27,7 @@
                       large
                       raised
                       rounded
-                    >Healthcare Copywritiing
+                    >Healthcare Copywriting
                 </v-btn> 
                 &nbsp;
                 <v-btn 

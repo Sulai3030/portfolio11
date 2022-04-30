@@ -48,7 +48,7 @@
             >
               <h2 class="heading-title">My Services</h2>
               <p class="text-left">
-                I am passionate about building great user experiences. There is nothing better than a well contrsuctied and navigable website. My aim fpr you is to deliver that for you and your customers.
+                I am passionate about building great user experiences. There is nothing better than a well contrsuctied and navigable website. My aim for you is to deliver that for you and your customers.
             </div>
           </v-col>
         </v-row>
