@@ -104,7 +104,7 @@
         ],
         items: [
           {
-            thumb: require("../../assets/images/about/about-3.png"),
+            thumb: require("../../assets/images/about/52040863336_890ff8cd4d_e.jpg"),
             src: "https://www.youtube.com/watch?v=ZOoVOfieAF8",
           },
         ],

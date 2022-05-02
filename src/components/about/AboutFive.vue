@@ -68,7 +68,7 @@
       <div class="thumbnail">
         <img
           class="w-100"
-          src="../../assets/images/about/about-3.jpg"
+          src="../../assets/images/about/52040863336_890ff8cd4d_e.jpg"
           alt="About Images"
         />
       </div>
