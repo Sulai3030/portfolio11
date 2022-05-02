@@ -2,13 +2,13 @@
   <div>
     <!-- Start Header Area -->
     <Header>
-      <img slot="logo" src="../../assets/images/logo/logo.png" />
+      <img slot="logo" src="../../assets/images/logo/s_thumbnail_header.png" />
     </Header>
     <!-- End Header Area -->
 
     <!-- Start Breadcrump Area  -->
     <div
-      class="rn-page-title-area pt--120 pb--190 bg_image bg_image--7"
+      class="rn-page-title-area pt--120 pb--190"
       data-black-overlay="7"
     >
       <v-container>
@@ -16,7 +16,7 @@
           <v-col cols="12">
             <div class="blog-single-page-title text-center pt--100">
               <h2 class="heading-title theme-gradient">
-                The best of the Future <br />Could Bebes
+                Screenwriting Techniques<br />
               </h2>
               <ul class="blog-meta d-flex justify-center align-center">
                 <li class="d-flex" v-for="(meta, i) in metaList" :key="i">
@@ -38,117 +38,59 @@
             <div class="inner-wrapper">
               <div class="inner">
                 <p>
-                  There are many variations of passages of Lorem Ipsum
-                  available, but the majority have suffered alteration in some
-                  form, by injected humour, or randomised words which don't look
-                  even slightly believable. If you are going to use a passage of
-                  Lorem Ipsum. You need to be sure there isn't anything
-                  embarrassing hidden in the middle of text. All the Lorem Ipsum
-                  generators on the Internet tend toitrrepeat predefined chunks.
+                  <p>Burn Notice</p>
+                  <p>Mid Season Premiere</p>
+	                <p>The midseason premiere of Burn Notice begins with a voice over (VO) and collection of scenes of the previous season’s events. The VO used in Burn Notice is a quick way to bring new viewers up to date on the action that happens on the show from week to week as well as keeping returning viewers abreast after the midseason hiatus. Next, we receive a title card and freeze frames to provide info without the need for a voice over from the main character Michael Westen (Jeffrey Donovan).
                 </p>
                 <div class="thumbnail">
                   <img
-                    src="../../assets/images/blog/bl-big-01.jpg"
+                    src="../../assets/images/logo/pexels-obregonia-d-toretto-918281.jpg"
                     alt="Blog Images"
+                    height="300"
+                    width="150"
                   />
                 </div>
                 <p class="mt--40">
-                  There are many variations of passages of Lorem Ipsum
-                  available, but the majority have suffered alteration in some
-                  form, by injected humour, or randomised words which don't look
-                  even slightly believable. If you are going to use a passage of
-                  Lorem Ipsum. You need to be sure there isn't anything
-                  embarrassing hidden in the middle of text. All the Lorem Ipsum
-                  generators on the Internet tend toitrrepeat predefined chunks.
+                  One of the signature tropes on Burn Notice is the VO. Burn Notice is a high concept show that attempts to relate the high stakes world of espionage in a very relatable manner and so unlike most lessons on screenwriting where you might be told that the use of VO is a failure by the screenwriter to convey information by showing the audience, Burn Notice uses VO as a tool to convey highly technical facts that would normally bog down the story. 
                 </p>
                 <p>
-                  Necessary, making this the first true generator on the
-                  Internet. It re are many variations of passages of Lo rem
-                  Ipsum available, but the majority have suffered alteration in
-                  some form, by injectedeed eedhumour, or randomised words which
-                  don't look even slightly believable.
+                  The show runners also use the VO to demonstrate how knowledgeable the main characters are of the world they inhabit.  These are professional spies. Burn Notice’s VO is a collaboration between the screenwriter and the director because the director frequently uses the VO in conjunction with aerial shots to change scenes and locations within the show itself. 
                 </p>
-                <blockquote class="rn-blog-quote">
-                  Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-                  Aenean commodo ligula eget dolor. Aenean massa. Cum sociis
-                  natoque penatibus et magnis dis parturient montes.
-                </blockquote>
+                <blockquote class="rn-blog-quote"> </blockquote>
                 <p>
-                  There are many variations of passages of Lorem Ipsum
-                  available, but the majority have suffered alteration in some
-                  form, by injected humour, or randomised words which don't look
-                  even slightly believable. If you are going to use a passage of
-                  Lorem Ipsum. You need to be sure there isn't anything
-                  embarrassing hidden in the middle of text. All the Lorem Ipsum
-                  generators on the Internet tend toitrrepeat predefined chunks.
-                  Necessary, making this the first true generator on the
-                  Internet. It re are many variations of passages of Lorem Ipsum
-                  available, but the majority have suffered alteration in some
-                  form, by injectedeed eedhumour, or randomised words which
-                  don't look even slightly believable.
+                  Another thing that the VOs accomplish is to show what happens in subtext within a scene.  At the end of the first hour—this was a two-hour premiere— Madeline Westen, played by the incomparable (Sharon Gless), pretends as if she is a concerned mother worried about her son, while being questioned by Tom Card (John C. McGinley) while the VO tells us how someone who is trying to deceive another would act.   In reality she had already been in contact with her son.
                 </p>
                 <div class="blog-single-list-wrapper d-flex flex-wrap">
                   <div class="thumbnail">
                     <img
                       class="w-100"
-                      src="../../assets/images/blog/blog-single-01.png"
+                      src="../../assets/images/blog/52040863336_890ff8cd4d_e.jpg"
                       alt="BLog Images"
                     /><span
-                      >Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do</span
+                      >Clouds after a storm</span
                     >
                   </div>
                   <div class="content">
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Quis ipsum suspendisse ultrices gravida. Risus
-                      commodo .
+                      The bridge between the two hours employs a device known as a reversal. In the first hour of the premiere, we have Westen and Tyler Grey (Kenny Johnson) captured by a Panamanian drug lord. In a surprise twist in the second hour, Tyler Gray shoots the Panamanian drug lord and tells Westen that he now believes everything Westen has been trying to explain for the past two episodes. This is called a reversal but it is also a good way to demonstrate character growth.
                     </p>
-                    <h4 class="title">Ordered &amp; Unordered Lists.</h4>
-                    <ul class="list-style">
-                      <li>Yet this above sewed flirted opened ouch</li>
-                      <li>Goldfinch realistic sporadic ingenuous</li>
-                      <li>
-                        Abominable this abidin far successfully then like piquan
-                      </li>
-                      <li>Risus commodo viverra</li>
-                      <li>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing
-                      </li>
-                    </ul>
-                    <h4 class="title">Ordered &amp; Unordered Lists.</h4>
-                    <ul class="list-style">
-                      <li>Yet this above sewed flirted opened ouch</li>
-                      <li>Goldfinch realistic sporadic ingenuous</li>
-                      <li>
-                        Abominable this abidin far successfully then like piquan
-                      </li>
-                      <li>Risus commodo viverra</li>
-                    </ul>
                   </div>
                 </div>
                 <p class="mt--25 mt_sm--5">
-                  There are many variations of passages of Lorem Ipsum
-                  available, but the majority have suffered alteration in some
-                  form, by injected humour, or randomised words which don't look
-                  even slightly believable. If you are going to use a passage of
-                  Lorem Ipsum. You need to be sure there isn't anything
-                  embarrassing hidden in the middle of text. All the Lorem Ipsum
-                  generators on the Internet tend toitrrepeat predefined chunks.
-                  Necessary, making this the first true generator on the
-                  Internet. It re are many variations of passages of Lorem Ipsum
-                  available, but the majority have suffered alteration in some
-                  form, by injectedeed eedhumour, or randomised words which
-                  don't look even slightly believable.
+                  The second hour runs more like a typical episode of Burn Notice with the introduction of a character who needs assistance because she is being threatened with jail by a cop whose partner was shot by a drug dealer. Gabrielle Anwar’s character Fiona agrees to help the individual despite the protestations of the other members of the team. The VO in the second hour is very technical, all about the internal workings of the spy game, and contains a bit of foreshadowing. 
                 </p>
                 <div class="video-wrapper position-relative mb--40">
-                  <CoolLightBox
-                    :items="items"
-                    :index="index"
-                    @close="index = null"
-                  >
-                  </CoolLightBox>
+                  <div class="thumbnail">
+                    <img
+                      class="w-100"
+                      src="../../assets/images/blog/52040863336_890ff8cd4d_e.jpg"
+                      alt="BLog Images"
+                      height="250"
+                    width="150"
+                    /><span
+                      >Clouds after a storm</span
+                    >
+                  </div>
                   <div class="thumbnail position-relative">
                     <div v-for="(image, imageIndex) in items" :key="imageIndex">
                       <img
@@ -165,19 +107,14 @@
                   </div>
                 </div>
                 <p class="mb--0">
-                  There are many variations of passages of Lorem Ipsum
-                  available, but the majority have suffered alteration in some
-                  form, by injected humour, or randomised words which don't look
-                  even slightly believable. If you are going to use a passage of
-                  Lorem Ipsum. You need to be sure there isn't anything
-                  embarrassing hidden in the middle of text. All the Lorem Ipsum
-                  generators on the Internet tend toitrrepeat predefined chunks.
-                  Necessary, making this the first true generator on the
-                  Internet. It re are many variations of passages of Lorem Ipsum
-                  available, but the majority have suffered alteration in some
-                  form, by injectedeed eedhumour, or randomised words which
-                  don't look even slightly believable.
+                  The plot to the second episode bookends the burned spy arc and involves the aiding of a young mother in escaping harassment by a dirty cop.  But first the episode begins with the crew literally burning down their home base, which is possible foreshadowing for the rest of the season. It also contains a scene where Madeline confronts the man who killed her other son, Westen’s brother. This scene takes place on the waterfront; water is frequently a screenwriter’s go-to to demonstrate spiritual cleansing.
                 </p>
+                <p>The dialog playfully uses lyrics from the popular song “Public Service Announcement” by Jay-Z to punctuate explosions, a fun and cheeky way to bring in casual viewers. We are also given the cliché of the four main characters, Westen, Fiona, Sam Axe (Bruce Campbell), and Jesse Porter (Coby Bell) walking away from the scene in slow motion.</p>
+                <p>
+                 The dialog playfully uses lyrics from the popular song “Public Service Announcement” by Jay-Z to punctuate explosions, a fun and cheeky way to bring in casual viewers. We are also given the cliché of the four main characters, Westen, Fiona, Sam Axe (Bruce Campbell), and Jesse Porter (Coby Bell) walking away from the scene in slow motion.  
+                </p>
+                <p>We close out this storyline by showing the woman Fiona met in prison at the end of last season and subsequently aided, reunited with her son. The characters tell us through dialog that the issues that the woman Fiona was aiding were neatly resolved by a change of heart in the antagonist in the second episode. They don’t mention the gunplay or the explosions and the scene is light and played for light laughs.</p>
+                <p>The final scene of the episode between Westen and his mother reveals her decision to go live with her sister and leave Miami but only after telling her son that he needs to retire after he accomplishes his goals of resolving his Burn Notice. This is a huge change as a major character now exits the show.</p>
               </div>
             </div>
           </v-col>
