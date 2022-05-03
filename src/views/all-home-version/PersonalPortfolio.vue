@@ -4,7 +4,7 @@
     <HeaderThree class="personal-portfolio">
       <img
         slot="logo"
-        src="../../assets/images/logo/logo-symbol-dark.png"
+        src="../../assets/images/logo/s_thumbnail_header.png"
         alt="Creative Agency"
       />
     </HeaderThree>
@@ -96,7 +96,7 @@
             <img
               slot="contact-img"
               class="w-100"
-              src="../../assets/images/about/about-6.jpg"
+              src="../../assets/images/about/apple-touch-icon.png"
               alt="trydo"
             />
           </Contact>

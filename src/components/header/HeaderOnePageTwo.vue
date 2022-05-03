@@ -55,7 +55,7 @@
       class="header-one-page-nav header-one-page-nav-two"
     >
       <router-link to="/" class="logo">
-        <img src="../../assets/images/logo/logo-symbol-dark.png" />
+        <img src="../../assets/images/logo/s_thumbnail_header.png" />
       </router-link>
       <!-- End brand logo -->
 

@@ -16,7 +16,7 @@
           <v-col cols="12">
             <div class="blog-single-page-title text-center pt--100">
               <h2 class="heading-title theme-gradient">
-                Screenwriting Techniques<br />
+                How to Use a Voice Over Effectively<br />
               </h2>
               <ul class="blog-meta d-flex justify-center align-center">
                 <li class="d-flex" v-for="(meta, i) in metaList" :key="i">
