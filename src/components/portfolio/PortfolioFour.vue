@@ -22,9 +22,16 @@
               <router-link to="portfolio-details">{{ item.title }}</router-link>
             </h4>
             <div class="portfolio-button">
-              <router-link class="rn-btn" to="/portfolio-details"
-                >Case Study</router-link
-              >
+              <div class="text-center">
+                  <v-btn
+                    rounded
+                    color="#fff"
+                    dark
+                    outlined
+                    to="http://www.partydash.com">
+                    Party Dash
+                  </v-btn>
+                </div>
             </div>
           </div>
         </div>
@@ -58,6 +65,11 @@
             src: require("../../assets/images/portfolio/slater01.jpg"),
             meta: "Web Development",
             title: "Michelle Slater, PhD.",
+          },
+          {
+            src: require("../../assets/images/portfolio/pexels-ekaterina-bolovtsova-5263829.jpg"),
+            meta: "Web Development",
+            title: "The G.O.A.T. Voter App",
           },
         ],
       };

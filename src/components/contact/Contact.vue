@@ -4,8 +4,7 @@
       <div class="section-title text-left mb--50 mb_sm--30 mb_md--30">
         <h2 class="heading-title">Contact Us.</h2>
         <p class="description">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
-          cupiditate aperiam neque
+          Let's do business together! 
         </p>
       </div>
       <div class="form-wrapper">

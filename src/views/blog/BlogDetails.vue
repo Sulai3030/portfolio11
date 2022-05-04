@@ -9,14 +9,14 @@
     <!-- Start Breadcrump Area  -->
     <div
       class="rn-page-title-area pt--120 pb--190"
-      data-black-overlay="7"
+      data-black-overlay="10"
     >
       <v-container>
         <v-row>
           <v-col cols="12">
             <div class="blog-single-page-title text-center pt--100">
               <h2 class="heading-title theme-gradient">
-                How to Use a Voice Over Effectively<br />
+                Recent Posts<br />
               </h2>
               <ul class="blog-meta d-flex justify-center align-center">
                 <li class="d-flex" v-for="(meta, i) in metaList" :key="i">
@@ -256,15 +256,15 @@
         metaList: [
           {
             icon: "clock",
-            text: "May 18, 2020",
+            text: "May 4, 2022",
           },
           {
-            icon: "user",
-            text: "Fatima",
+            icon: "",
+            text: "",
           },
           {
             icon: "message-circle",
-            text: "15 Comments",
+            text: "",
           },
           {
             icon: "heart",
