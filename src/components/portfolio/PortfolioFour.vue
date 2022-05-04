@@ -34,6 +34,18 @@
                 </div>
             </div>
           </div>
+          <div class="portfolio-button">
+              <div class="text-center">
+                  <v-btn
+                    rounded
+                    color="#fff"
+                    dark
+                    outlined
+                    to="http://www.partydash.com">
+                    Party Dash
+                  </v-btn>
+                </div>
+            </div>
         </div>
       </div>
     </v-col>
