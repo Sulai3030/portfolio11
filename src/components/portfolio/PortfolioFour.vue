@@ -21,31 +21,17 @@
             <h4>
               <router-link to="portfolio-details">{{ item.title }}</router-link>
             </h4>
-            <div class="portfolio-button">
-              <div class="text-center">
-                  <v-btn
-                    rounded
-                    color="#fff"
-                    dark
-                    outlined
-                    to="http://www.partydash.com">
-                    Party Dash
-                  </v-btn>
-                </div>
-            </div>
           </div>
-          <div class="portfolio-button">
-              <div class="text-center">
-                  <v-btn
-                    rounded
-                    color="#fff"
-                    dark
-                    outlined
-                    to="http://www.partydash.com">
-                    Party Dash
-                  </v-btn>
-                </div>
-            </div>
+        </div>
+      <div>
+        <div class="text-center">
+           <v-btn
+            rounded
+            color="#cc225a"
+            dark
+          >
+            More info
+          </v-btn>
         </div>
       </div>
     </v-col>
