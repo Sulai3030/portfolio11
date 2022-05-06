@@ -97,7 +97,7 @@
               slot="contact-img"
               class="w-100"
               src="../../assets/images/about/apple-touch-icon.png"
-              alt="trydo"
+              alt="s-logo"
             />
           </Contact>
         </v-container>

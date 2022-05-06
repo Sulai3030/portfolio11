@@ -2,7 +2,7 @@
   <div>
     <!-- Start Header Area -->
     <Header>
-      <img slot="logo" src="../../assets/images/logo/logo.png" />
+      <img slot="logo" src="../../assets/images/logo/apple-touch-icon.png" />
     </Header>
     <!-- End Header Area -->
 

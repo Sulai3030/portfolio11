@@ -4,9 +4,10 @@
       <div class="section-title text-left mb--50 mb_sm--30 mb_md--30">
         <h2 class="heading-title">Contact Us.</h2>
         <p class="description">
-          Let's do business together! 
+          Let's do business together! sulai3030 (at) gmail dot com
         </p>
       </div>
+      <!--
       <div class="form-wrapper">
         <ValidationObserver v-slot="{ handleSubmit }">
           <form @submit.prevent="handleSubmit(onSubmit)">
@@ -81,6 +82,7 @@
         </ValidationObserver>
       </div>
     </v-col>
+    <!-->
     <v-col lg="6" md="6" sm="12" cols="12" order="1" order-md="2">
       <div class="thumbnail mb_md--40 mb_sm--40">
         <img src="../../assets/images/portfolio/stormphoto.jpg" alt="stormclouds" />

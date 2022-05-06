@@ -1,6 +1,6 @@
 <template>
   <v-row class="mt_dec--40">
-    <!-- Start Single Address  -->
+    <!-- Start Single Address
     <v-col lg="4" md="4" sm="6" cols="12" class="mt--40">
       <div class="rn-address">
         <div class="icon">
@@ -17,6 +17,7 @@
         </div>
       </div>
     </v-col>
+    -->
     <!-- End Single Address  -->
 
     <!-- Start Single Address  -->
@@ -28,17 +29,14 @@
         <div class="inner">
           <h4 class="title">Email Address</h4>
           <p>
-            <a href="mailto:admin@gmail.com">admin@gmail.com</a>
-          </p>
-          <p>
-            <a href="mailto:example@gmail.com">example@gmail.com</a>
+            <a href="mailto:sulai3030@gmail.com">sulai3030 at gmail dot com</a>
           </p>
         </div>
       </div>
     </v-col>
     <!-- End Single Address  -->
 
-    <!-- Start Single Address  -->
+    <!-- Start Single Address
     <v-col lg="4" md="4" sm="6" cols="12" class="mt--40">
       <div class="rn-address">
         <div class="icon">
@@ -53,6 +51,7 @@
         </div>
       </div>
     </v-col>
+    -->
     <!-- End Single Address  -->
   </v-row>
 </template>

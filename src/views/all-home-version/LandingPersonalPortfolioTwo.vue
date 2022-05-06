@@ -95,7 +95,7 @@
         <v-row align="end" class="mb--20">
           <v-col lg="6" md="12">
             <div class="section-title text-left">
-              <h2>Latest News</h2>
+              <h2>Blog Posts</h2>
               <p>
                 Below are some of the projects I am currently working on.
               </p>
@@ -120,6 +120,8 @@
               class="w-100"
               src="../../assets/images/portfolio/stormphoto.jpg"
               alt="storm"
+              max-width="200"
+              height="auto"
             />
           </Contact>
         </v-container>
