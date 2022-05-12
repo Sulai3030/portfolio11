@@ -199,13 +199,13 @@ const routes = [
     path: "/blog",
     name: "Blog",
     meta: {
-      title: "Blog",
+      title: "Blog || VueJS Multipurpose Template",
     },
     component: () => import("../views/blog/Blog.vue"),
   },
   {
-    path: "/blog-details",
-    name: "BlogDetails",
+    path: "/Blog-Details.vue",
+    name: "Blog-Details",
     meta: {
       title: "Blog Details || VueJS Multipurpose Template",
     },

@@ -85,7 +85,7 @@
     <!-->
     <v-col lg="6" md="6" sm="12" cols="12" order="1" order-md="2">
       <div class="thumbnail mb_md--40 mb_sm--40">
-        <img src="../../assets/images/portfolio/stormphoto.jpg" alt="stormclouds" />
+        <a href="mailto:sulai3030@gmail.com?subject=Mail from our Website"><img src="../../assets/images/portfolio/stormphoto.jpg" alt="stormclouds" /></a>
       </div>
     </v-col>
   </v-row>
