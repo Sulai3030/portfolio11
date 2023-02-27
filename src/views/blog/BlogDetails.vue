@@ -37,12 +37,11 @@
           <v-col cols="12">
             <div class="inner-wrapper">
               <div class="inner">
-                <p>
+                <p></p>
                   <p>Burn Notice</p>
                   <p>Mid Season Premiere</p>
 	                <p>The midseason premiere of Burn Notice begins with a voice over (VO) and collection of scenes of the previous season’s events. The VO used in Burn Notice is a quick way to bring new viewers up to date on the action that happens on the show from week to week as well as keeping returning viewers abreast after the midseason hiatus. Next, we receive a title card and freeze frames to provide info without the need for a voice over from the main character Michael Westen (Jeffrey Donovan).
                   </p>
-                </p>
                 <div class="thumbnail">
                   <img
                     src="../../assets/images/logo/pexels-obregonia-d-toretto-918281.jpg"

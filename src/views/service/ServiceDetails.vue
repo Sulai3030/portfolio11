@@ -84,7 +84,7 @@
                   </v-col>
                   <v-col lg="6" md="6" cols="12">
                     <div class="details mt_md--30 mt_sm--30">
-                      <h4 class="headingtitle theme-gradient">
+                      <h4 class="title theme-gradient">
                         <p>
                           Web Design and Development
                         </p>
