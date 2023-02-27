@@ -59,6 +59,7 @@
                 </v-btn> 
           </v-col>
         </v-row>
+      </v-container>
     </div>
     <!-- End Breadcrump Area  -->
 
@@ -157,7 +158,8 @@
                        <p class="text-center" id="healthcare">Healthcare Copy Writing</p>
                       </h4>
                       <p>
-                        I have written extensively in the healthcare realm. My writings include articles, and interviews with subject matter experts (SMEs).<p>
+                        I have written extensively in the healthcare realm. My writings include articles, and interviews with subject matter experts (SMEs
+                      </p>
                       <p>Here are examples of my work.</p>
                       <ul class="liststyle bullet">
                         <li><a href="https://blackhealthmatters.com/lauren-lee-talks-kidney-disease-breakthroughs/">Lauren Lee talks kidney disease breakthroughs</a></li>
@@ -240,8 +242,9 @@
                       <ul class="liststyle bullet">
                        <p class="text-left" id="criticism">For years I wrote Film and TV reviews. Samples can be found here:</p>
                        <p class="text-left"><a href="https://screenrant.com/author/sulai/">https://screenrant.com/author/sulai/</a></p>
-                       <p class="text-left">Some collected freelance articles are here:</p> 
-                       <p class="text-left"><a href="https://screenrant.com/author/sulai/">https://screenrant.com/author/sulai/</a></p>
+                       <p class="text-left"></p> 
+                       <p class="text-left"><a href="https://screenrant.com/author/sulai/"></a></p>
+                      </ul>
                     </div>
                   </v-col>
                   <v-col lg="6" md="6" cols="12" order="1" order-md="2">

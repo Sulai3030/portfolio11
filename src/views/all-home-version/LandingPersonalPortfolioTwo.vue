@@ -9,7 +9,7 @@
         class="slide personal-portfolio-slider slider-style-3 slider-paralax bg_image bg-image-8 d-flex align-center"
       >
         <BannerThree>
-          <span slot="designation">FREELANCE Web Developer and Designer</span>
+          <span slot="designation">Web Developer and Designer</span>
           <h2 class="heading-title" slot="heading-title">
             I am Sulai Sivadel. Welcome to my Portfolio.
           </h2>
@@ -49,6 +49,7 @@
               <h2 class="heading-title">My Services</h2>
               <p class="text-left">
                 I am passionate about building great user experiences. There is nothing better than a well contrsuctied and navigable website. My aim for you is to deliver that for you and your customers.
+              </p>
             </div>
           </v-col>
         </v-row>
@@ -69,6 +70,7 @@
               <h2 class="heading-title">My Latest Projects</h2>
               <p class="text-left">
                 I am user-focused and experienced with working in teams and independently. 
+              </p>
               <p class="text-left">I have strong project management experience and experience 
                 delegating responsibilities to a team. Bringing projects in on time and uneder budget.</p>
               <p class="text-left">A flexible and quick learner committed to constantly learning and evolving skills to stay abreast of ever-evolving technologies and trends in the industry. Communicative, knowledgeable and steadfast with excellent computer engineering skills. HTML5, CSS,JavaScript, VueJS, and ReactJS.
