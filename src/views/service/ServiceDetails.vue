@@ -84,6 +84,11 @@
                   </v-col>
                   <v-col lg="6" md="6" cols="12">
                     <div class="details mt_md--30 mt_sm--30">
+                      <h4 class="headingtitle theme-gradient">
+                        <p>
+                          Web Design and Development
+                        </p>
+                      </h4>
                       <p>
                         From conception to launch, from wireframe to testing I will dutifully complete and maintain your website.
                       </p>
@@ -92,7 +97,7 @@
                       </p>
                       <h4 class="title"></h4>
                       <ul class="liststyle bullet">
-                        <li><a href="https://partydash.com/">PARTYDASH.COM</a></li>
+                        <li><a href="https://web.archive.org/web/20220707140808/https://partydash.com/">PARTYDASH.COM</a></li>
                         <li><a href="https://www.mayapplecenter.org/">Mayapple Center for the Arts</a></li>
                         <li><a href="https://www.johndavidwest.com/">John David West: Social Media + Photography</a></li>
                         <li><a href="https://nymedicaidchoice.com/">New York Medicaid Choice by Maxim</a></li>
