@@ -48,7 +48,7 @@
           },
           {
             icon: "monitor",
-            title: "Health Policy Writing/Reporting",
+            title: "Healthcare  Policy Writing/Reporting",
             desc: `Conveying information to the public can be complicated but I take great care in simplifiying that process and helping the average citizen to understand what is happening around them.`,
           },
           {
