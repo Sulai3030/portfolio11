@@ -65,14 +65,14 @@
             title: "Michelle Slater, PhD.",
           },
           {
-            src: require("../../assets/images/portfolio/pexels-ekaterina-bolovtsova-5263829.jpg"),
-            meta: "Web Development/QA",
-            title: "The G.O.A.T. Voter App",
-          },
-          {
             src: require("../../assets/images/portfolio/pexels-cottonbro-7579831.jpg"),
             meta: "QA",
             title: "New York Medicaid Choice",
+          },
+          {
+            src: require("../../assets/images/portfolio/pexels-ekaterina-bolovtsova-5263829.jpg"),
+            meta: "Web Development/QA",
+            title: "The G.O.A.T. Voter App",
           },
         ],
       };

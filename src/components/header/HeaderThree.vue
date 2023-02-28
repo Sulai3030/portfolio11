@@ -233,24 +233,7 @@
           offset-y
           transition="scroll-y-reverse-transition"
         >
-          <template v-slot:activator="{ on, attrs }">
-            <v-btn text :ripple="false" v-bind="attrs" v-on="on">
-              Blocks
-            </v-btn>
-          </template>
-
-          <v-list>
-            <v-list-item
-              link
-              v-for="(item, index) in blocksDropDownItems"
-              :key="index"
-              :to="item.to"
-            >
-              <v-list-item-title>{{ item.title }}</v-list-item-title>
-            </v-list-item>
-          </v-list>
-        </v-menu>
-        <!-- End blocks dropdown -->
+          
         <v-btn :ripple="false" text to="/contact">Contact</v-btn>
       </v-toolbar-items>
       <!-- End header menu item -->

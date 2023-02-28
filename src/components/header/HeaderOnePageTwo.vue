@@ -100,7 +100,7 @@ export default {
     items: [
       { title: "Home", to: "#home" },
       { title: "About", to: "#about" },
-      { title: "Service", to: "#service" },
+      { title: "Professional Services", to: "#service" },
       { title: "Portfolio", to: "#portfolio" },
       { title: "Blog", to: "#blog" },
       { title: "Contact", to: "#contact" },

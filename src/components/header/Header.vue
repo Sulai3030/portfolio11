@@ -303,17 +303,7 @@ export default {
      
       { title: "404 Page", to: "/404" },
     ],
-    blocksDropDownItems: [
-      { title: "Portfolio", to: "/portfolio" },
-      
-      { title: "Service", to: "/service" },
-      
-      { title: "Blog List", to: "/blog" },
-      
-      { title: "Contact Form", to: "/contact-form" },
-      { title: "Columns", to: "/column" },
-      
-    ],
+    
 
     // Bellow mobile menu items
     homeVersionSidebarDropDownItems: [

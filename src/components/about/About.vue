@@ -13,8 +13,8 @@
               <p class="description">
                 I am a Frontend Developer who is passionate about building inviting user experiences. I am ambitious and user-focused with experience working not only in teams but independently.
               </p>
-              <p class="description">  I have strong project management experience and experience delegating responsibilities to a team. A flexible and a quick learner         
-                committed to constantly learning and evolving my skills I try to stay abreast of ever-evolving technologies and trends in the industry.
+              <p class="description">  I have strong project management experience and experience delegating responsibilities to a team. A flexible and quick learner         
+                committed to constantly learning and evolving my skills, I try to stay abreast of ever-evolving technologies and trends in the industry.
               </p>           
               <p class="description">Communicative, knowledgeable and steadfast with excellent computer engineering skills. HTML5, CSS,JavaScript, VueJS, and ReactJS. When I'm not coding, you'll find me baking delicous desserts.
              </p>

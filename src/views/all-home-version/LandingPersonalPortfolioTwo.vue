@@ -83,12 +83,12 @@
         <v-row>
           <v-col lg="12">
             <div class="view-more-btn mt--60 mt_sm--30 text-center">
-              <a class="rn-button-style--2 btn_solid" href="https://www.partydash.com">Party Dash</a>&nbsp;
               <a class="rn-button-style--2 btn_solid" href="https://www.mayapplecenter.org">Mayapple Center for the Arts</a>&nbsp;
               <a class="rn-button-style--2 btn_solid" href="https://www.johndavidwest.com">John David West, Social Media Manager</a>&nbsp;
-              <a class="rn-button-style--2 btn_solid" href="https://michelleslater.com/">Michelle Slater, PhD.</a>&nbsp;
-              <a class="rn-button-style--2 btn_solid" href="https://www.goatvoter.org/">The G.O.A.T. Voter App</a>&nbsp;
-              <a class="rn-button-style--2 btn_solid" href="https://nymedicaidchoice.com/">New York Medicaid Choice</a>&nbsp;
+              <a class="rn-button-style--2 btn_solid" href="https://michelleslater.com/">Michelle Slater, PhD.</a>&nbsp;  
+              <a class="rn-button-style--2 btn_solid" href="https://nymedicaidchoice.com/">State of New York, Medicaid Choice</a>&nbsp;
+              <a class="rn-button-style--2 btn_solid" href="https://www.partydash.com">Party Dash (Archived Version)</a>&nbsp;
+              <a class="rn-button-style--2 btn_solid" href="https://www.goatvoter.org/">The G.O.A.T. Voter App (Expired)</a>&nbsp;
             </div>
           </v-col>
         </v-row>
