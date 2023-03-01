@@ -249,7 +249,7 @@
         >
           <template v-slot:activator="{ on, attrs }">
             <v-btn text :ripple="false" v-bind="attrs" v-on="on">
-              Blocks
+              
             </v-btn>
           </template>
 
