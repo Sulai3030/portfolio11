@@ -87,7 +87,7 @@
               <a class="rn-button-style--2 btn_solid" href="https://www.johndavidwest.com">John David West, Social Media Manager</a>&nbsp;
               <a class="rn-button-style--2 btn_solid" href="https://michelleslater.com/">Michelle Slater, PhD.</a>&nbsp;  
               <a class="rn-button-style--2 btn_solid" href="https://nymedicaidchoice.com/">State of New York, Medicaid Choice</a>&nbsp;
-              <a class="rn-button-style--2 btn_solid" href="https://www.partydash.com">Party Dash (Archived Version)</a>&nbsp;
+              <a class="rn-button-style--2 btn_solid" href="https://web.archive.org/web/20220518194327/https://partydash.com/pages/about-us">Party Dash (Archived Version)</a>&nbsp;
               <a class="rn-button-style--2 btn_solid" href="https://www.goatvoter.org/">The G.O.A.T. Voter App (Expired)</a>&nbsp;
             </div>
           </v-col>
