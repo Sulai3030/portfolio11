@@ -20,15 +20,11 @@
           },
           {
             icon: "fa-linkedin-in",
-            url: "https://www.linkedin.com/",
+            url: "https://www.linkedin.com/in/sulai3030/",
           },
           {
             icon: "fa-twitter",
-            url: "https://twitter.com/",
-          },
-          {
-            icon: "fa-instagram",
-            url: "https://instagram.com/",
+            url: "https://twitter.com/Sulai2020",
           },
         ],
       };
