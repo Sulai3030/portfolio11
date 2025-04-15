@@ -235,6 +235,7 @@
         >
           
         <v-btn :ripple="false" text to="/contact">Contact</v-btn>
+        </v-menu>
       </v-toolbar-items>
       <!-- End header menu item -->
       <v-spacer></v-spacer>
@@ -260,7 +261,7 @@
   </div>
 </template>
 
-<script>
+<script lang="js">
 import feather from "feather-icons";
 import socialTwo from "../social/SocialTwo";
 export default {

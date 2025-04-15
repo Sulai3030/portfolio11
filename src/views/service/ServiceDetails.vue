@@ -15,7 +15,7 @@
         <v-row>
           <v-col cols="12">
             <div class="rn-page-title text-center pt--100">
-              <h2 class="headingtitle theme-gradient">Website Development & Professional Writing Services</h2> 
+              <h2 class="headingtitle theme-gradient">Website Development & Professional Writing Services</h2>
               <p class="text-center">I develop and maintain user oriented websites, and write and edit content as well </p>
             </div>
             <p></p>
@@ -28,9 +28,9 @@
                       raised
                       rounded
                     >Healthcare Copywriting
-                </v-btn> 
+                </v-btn>
                 &nbsp;
-                <v-btn 
+                <v-btn
                       a @click="$vuetify.goTo('#policy', options)"
                       color="#F42D2D"
                       elevation="24"
@@ -56,7 +56,7 @@
                       large
                       raised
                       rounded>Film and TV Criticism
-                </v-btn> 
+                </v-btn>
           </v-col>
         </v-row>
       </v-container>
@@ -183,10 +183,10 @@
                 <v-row class="sercice-details-content align-items-center">
                   <v-col lg="6" md="6" cols="12" order="2" order-md="1">
                     <div class="details mt_md--30 mt_sm--30">
-                      <h4 class="headingtitle theme-gradient">Health Policy Writing and Reporting</h4>
+                      <h4 class="headingtitle theme-gradient">Healthcare Policy Writing and Reporting</h4>
                       <p id="policy">I have also edited and written healthcare policy for official websites such as this one for the State of New York touting the roll-out of a new health insurance plan for the disabled population. New York Medicaid Choice is the managed care enrollment program of the New York State Department of Health.</p>
                       <ul class="liststyle bullet">
-                        <li><a href="https://nymedicaidchoice.com//">New York Medicaid Choice.com</a></li>
+                        <li><a href="https://nymedicaidchoice.com/">New York Medicaid Choice.com</a></li>
                       </ul>
                     </div>
                   </v-col>
@@ -247,7 +247,7 @@
                       <ul class="liststyle bullet">
                        <p class="text-left" id="criticism">For years I wrote Film and TV reviews. Samples can be found here:</p>
                        <p class="text-left"><a href="https://screenrant.com/author/sulai/">https://screenrant.com/author/sulai/</a></p>
-                       <p class="text-left"></p> 
+                       <p class="text-left"></p>
                        <p class="text-left"><a href="https://screenrant.com/author/sulai/"></a></p>
                       </ul>
                     </div>
