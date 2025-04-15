@@ -195,8 +195,8 @@
             icon: "instagram",
           },
           {
-            url: "https://twitter.com/Sulai2020/",
-            icon: "twitter",
+            url: "https://bsky.app/profile/sulai3030.bsky.social",
+            icon: "bluesky",
           },
           {
             url: "https://stackoverflow.com/users/9226831/sulai3030",

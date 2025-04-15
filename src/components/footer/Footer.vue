@@ -83,8 +83,8 @@
             url: "https://www.linkedin.com/in/sulai3030/",
           },
           {
-            icon: "fa-twitter",
-            url: "https://twitter.com/Sulai2020",
+            icon: "fa-brands fa-bluesky",
+            url: "https://bsky.app/profile/sulai3030.bsky.social",
           },
           {
             icon: "fa-instagram",
