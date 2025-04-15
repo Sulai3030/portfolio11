@@ -74,9 +74,8 @@
                         <li><a href="https://www.mayapplecenter.org/">Mayapple Center for the Arts</a></li>
                         <li><a href="https://www.johndavidwest.com/">John David West: Social Media + Photography</a>
                         </li>
-                        <li><a href="
-                        <li><a href="https://nymedicaidchoice.com/en">New York Medicaid Choice.com</a></li>
-                        ">New York Medicaid Choice by Maxim</a></li>
+                        <li><a href="https://nymedicaidchoice.com/en">New York Medicaid Choice</a>
+                        </li>
                         <li><a href="https://www.princetonreview.com/law-school-advice/strategies-to-succeed">The
                             Princeton Review</a></li>
                       </ul>
