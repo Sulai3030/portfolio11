@@ -12,7 +12,8 @@
         <v-row>
           <v-col cols="12">
             <div class="rn-page-title text-center pt--100">
-              <h2 class="headingtitle theme-gradient">Website Development & Professional Writing Services</h2>
+              <h2 class="headingtitle theme-gradient">Website Development & <hr>
+              Professional Writing Services</h2>
               <p class="text-center">I develop and maintain user oriented websites, and write and edit content as well
               </p>
             </div>
@@ -64,9 +65,8 @@
                         website.
                       </p>
                       <p>
-                        Below are links to, and screenshots of, satified custormers' websites.
+                        Below are links to, and screenshots of, satisfied custormer websites.
                       </p>
-                      <h4 class="title"></h4>
                       <ul class="liststyle bullet">
                         <li><a
                             href="https://web.archive.org/web/20220707140808/https://partydash.com/">PARTYDASH.COM</a>
@@ -134,9 +134,9 @@
                       </h4>
                       <p>
                         I have written extensively in the healthcare realm. My writings include articles, and interviews
-                        with subject matter experts (SMEs
+                        with subject matter experts (SMEs)
                       </p>
-                      <p>Here are examples of my work.</p>
+                      <p>Here are examples of my work:</p>
                       <ul class="liststyle bullet">
                         <li><a
                             href="https://blackhealthmatters.com/lauren-lee-talks-kidney-disease-breakthroughs/">Lauren
@@ -147,7 +147,7 @@
                           </a></li>
                         <li><a
                             href="https://blackhealthmatters.com/working-with-your-doctor-when-you-have-kidney-disease-empowering-yourself-to-be-an-advocate-for-you">Working
-                            with your doctor. Empowering Yourself to be an Advocate for Yourself</a></li>
+                            with your doctor. Empowering yourself to be an advocate for yourself</a></li>
                         <li><a href="https://blackhealthmatters.com/kidney-disease/what-is-fsgs/">What is FSGS?</a></li>
                         <li><a
                             href="https://blackhealthmatters.com/kidney-disease/truth-about-chronic-kidney-disease/">The
