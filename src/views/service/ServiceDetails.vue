@@ -12,7 +12,7 @@
         <v-row>
           <v-col cols="12">
             <div class="rn-page-title text-center pt--100">
-              <h2 class="headingtitle theme-gradient">Website Development & <hr>
+              <h2 class="headingtitle theme-gradient">Website Development & <br>
               Professional Writing Services</h2>
               <p class="text-center">I develop and maintain user oriented websites, and write and edit content as well
               </p>
